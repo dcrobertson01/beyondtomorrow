@@ -32,7 +32,6 @@ We must live within our means and use only our just share of the world's resourc
 In every area of our lives, there are thresholds beyond which mankind pays too high a price for growth. Society must decide which levels are best (for people and for the environment) and then stick with them until such time as there is a change in the information on which the decision was based.
 
 The Values Party proposes that New Zealand aim to stabilise its levels of: 
-
 * **Population.** We must bring into the world only as many people as society can care for justly. 
 * **Economy.** Once the population has been stabilised we need a Stable-state economy: we must produce and consume only as much as the environment can stand.
 
