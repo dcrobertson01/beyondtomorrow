@@ -1,0 +1,22 @@
+---
+title: Community
+taxonomy:
+    category:
+        - docs
+---
+
+## Community, Family, Children
+Communities have become too big and families have become too small. Because of the sprawling nature of cities and towns, and because of increased family and individual mobility, the formation of small areas with a community of interest is now rare. New Zealand badly needs a set of clearly defined national goals with which the whole community can identify. Government should be decentralised, and people given as much say as possible in running their own affairs - in determining the type of community in which they live. Extended families - of grandparents, parents, children, and perhaps friends and other relatives - should be encouraged. So should other forms of communal living. Children should be under the influence of more than one adult, and child-care centres should be more than mindless baby-minders.
+## Education
+The education system can be used to maintain the present system or to help develop an alternative. At the moment, our education system is not equipping young people with the skills they need to cope with life in a changing world. There is little point in simply updating the system soit caters better for a society which is fundamentally competitive and materialistic. Education should be geared to the development of a just, co-operative, community-based society. A major effort is needed to tackle many of the problems of modern education - there is a need for improved adult education, for greater retraining, and to improve facilities for minority groups. The decision-making process of education must be reformed, to allow for greater power at community and regional levels. There should be greater diversity of educational styles, to allow for individual preferences and differences.
+## Health
+Everyone has a right to health care, when and where it is needed. Need should be the only criterion for receiving care. The health service should be decentralised, so that communities can decide for themselves the type of service they want. But because resources are finite there is a limit to the amount of money that can be spent, so services must be spread as equitably as possible. Prevention is better than cure, and the development of a stable society would do much to prevent many of today’s diseases - the diseases of stress and affluence.
+## Welfare
+An objective of all Values’ policies is to create a society which has no need for social welfare as it is traditionally understood. A guaranteed minimum income would replace most benefits and superannuation cohesive community established schemes. The caring, once growth rates had been stabilised, would cater for most people's needs. There be a continuing need for the traditional forms of welfare, and “common situation” groups such as will nevertheless Alcoholics Anonymous should be encouraged.
+## Housing
+Shelter is a basic need of mankind. People have a right to warm, dry, comfortable accommodation, at a reasonable price. many people live in poor quality housing at too high a price. It Yet after many years of effort by successive governments are taking advantage of people's need for housing. is very difficult to buy a house. Part of the problem is that speculators Part of it is that some dwellings are under-used. Building cannot keep pace with population growth. There should be made more readily tighter controls on speculation. More houses should be built, and money and other assistance available. Variety in housing, and alternatives in living styles, should be encouraged.
+## Local Government
+Local bodies should be more concerned than they are with the wider needs of the community. Too often, important Decisions on matters such as housing, health, welfare decisions affecting a local area are left to a distant bureaucracy. and education should all be decentralised. At the same time, there is a need for a reorganisation of local government regional, district and community councils should be developed. Rates should be abolished in favour of a local income tax.
+## Government Reform
+
+Only a strong sense of community can counter the massness and alienation of modern western society. More power, more responsibility, and more autonomy must go to regional levels of government. Greater openness is needed in central government, and the public must be more involved in its processes. The present “confrontation” debating system should be reformed, and MPs given greater assistance in their work.
