@@ -1,3 +1,10 @@
+---
+title: Agriculture
+taxonomy:
+    category:
+        - docs
+---
+
 “Ma te turangawaewae ka kitea te mana o te ran-
 gatira.”
 “The stability of the land upon which you stand will
