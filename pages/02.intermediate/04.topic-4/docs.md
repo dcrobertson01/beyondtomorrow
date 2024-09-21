@@ -1,7 +1,8 @@
 ---
-title: Topic 4
+title: 'Topic 4'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Lorem markdownum scire deposito manumque facinus. Opprobria sic Iris vimque
