@@ -1,6 +1,8 @@
 ---
 title: Survival
-date: '23:24 10-09-2024'
+taxonomy:
+    category:
+        - docs
 ---
 
 ## The Stable-State Society
