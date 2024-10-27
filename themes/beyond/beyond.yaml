@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 root_page: 					                                # optional: set root page of documentation
 top_level_version: false                            # Use versions for top level navigation
 google_analytics_code:                              # Enter your `UA-XXXXXXXX-X` code here
@@ -15,6 +15,6 @@ streams:
      type: ReadOnlyStream
      prefixes:
        '':
-       - user/themes/beyond-tomorrow
+       - user/themes/beyond
        - user/themes/learn2-git-sync
        - user/themes/learn2
