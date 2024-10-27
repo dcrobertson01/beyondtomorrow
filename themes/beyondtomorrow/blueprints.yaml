@@ -1,0 +1,18 @@
+name: Beyond Tomorrow
+slug: beyondtomorrow
+type: theme
+version: 0.1.0
+description: Beyond Tomorrow
+icon: rebel
+author:
+  name: Don Robertson
+  email: don@robertson.net.nz
+homepage: https://github.com/283012/grav-theme-beyondtomorrow
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/283012/grav-theme-beyondtomorrow/issues
+readme: https://github.com/283012/grav-theme-beyondtomorrow/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }
