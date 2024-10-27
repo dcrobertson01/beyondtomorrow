@@ -1,5 +1,8 @@
 ---
 title: Justice
+taxonomy:
+    category:
+        - docs
 ---
 
 ## Rich World, Poor World
