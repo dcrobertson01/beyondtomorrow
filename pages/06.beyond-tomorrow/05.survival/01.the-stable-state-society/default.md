@@ -6,7 +6,7 @@ title: 'The Stable-State Society'
 
 Dr E. F. Schumacher - Economic Advisor, British
 National Coal Board.
-
+[TOC]
 ### What We Want
 In a finite world, infinite growth is impossible. Every person must be cared for in a limited amount of space and with limited resources. Common sense demands that the whole world develops a sharing, cooperative, decentralised stable society which ensures the satisfaction of both the material and the non-material needs of all of us, now and in the future. The Values Party believes that New Zealand is a very good place to start and that the time to set the example is now. We have three priorities:
 
