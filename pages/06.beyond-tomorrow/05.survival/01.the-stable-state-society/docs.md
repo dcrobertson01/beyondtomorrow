@@ -1,5 +1,8 @@
 ---
 title: 'The Stable-State Society'
+taxonomy:
+    category:
+        - docs
 ---
 
 > “What is quite clear is that a way of life which bases itself on materialism, that is on permanent limitless expansion, in a finite environment, cannot last long, and that its life expectation is the shorter thé more successfully it pursues its expansionist objectives.”
