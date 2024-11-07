@@ -5,7 +5,6 @@ content:
     items: '@self.children'
     filter:
         visible: true
-        type: 'historicevent'
     order:
         by: date
         dir: desc
