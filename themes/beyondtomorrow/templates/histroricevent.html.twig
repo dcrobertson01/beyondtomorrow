@@ -1,15 +1,11 @@
 {% extends 'docs.html.twig' %}
 
 {% block content %}
-	<div id="timeline">
+	<div id="historic-event">
     	<div id="body-inner">
 			<p>
 				{{ page.content|raw }}
 			</p>
-			{% for p in page.collection %}
-				<h2>{{ p.title|e }}</h2>
-				{{ p.summary|raw }}
-			{% endfor %}
 		</div>
     </div>
 {% endblock %}
