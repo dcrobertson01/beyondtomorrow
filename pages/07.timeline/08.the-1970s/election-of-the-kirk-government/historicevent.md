@@ -8,4 +8,4 @@ taxonomy:
     category: docs
 ---
 
-Big Norm
+Big Norm ka
