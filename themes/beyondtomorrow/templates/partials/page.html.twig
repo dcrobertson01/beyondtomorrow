@@ -1,5 +1,7 @@
 <div id="body-inner">
     <h1>{{ page.title }}</h1>
+
+		{% include 'components/page-toc.html.twig' %}
     <p>
     	{{ page.content|raw }}
     </p>

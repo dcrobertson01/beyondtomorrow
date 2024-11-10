@@ -92,17 +92,13 @@ The Values Party would discourage growth-oriented investment in undesirable sect
 
 The following new taxation measures would be introduced progressively and in a manner which would ensure minimum disruption and hardship.
 
-* All enterprises would face a graduated taxation structure designed
-to encourage small firms and help break up monopolies.
+* All enterprises would face a graduated taxation structure designed to encourage small firms and help break up monopolies.
 
-* Co-operative enterprises would face a lower tax on their profits
-than would non co-operative enterprises. [See “Co-operative Com-
-munity Enterprises”.
+* Co-operative enterprises would face a lower tax on their profits than would non co-operative enterprises. [See “Co-operative Com- munity Enterprises”.
 
 * Company taxation would be used tc control the promotion of consumption by disallowing promotional advertising as a deductible expense. \[See “Consumerism’.\]
 
-* To ensure that taxes owing in New Zealand are paid in New Zealand, a Values Government would do away with double taxation agreements with foreign countries as they apply to companies.
-These investment and taxation measures would be aimed at discouraging undesirable economic activity, ensuring that social priorities are achieved, and promoting the development of smaller scale, more labour intensive technologies which are more in harmony with the needs of people and our store of natural resources. (See “Technology’.) In particular there is a need for the development of a technology for the re-use and recycling of resources.
+* To ensure that taxes owing in New Zealand are paid in New Zealand, a Values Government would do away with double taxation agreements with foreign countries as they apply to companies. These investment and taxation measures would be aimed at discouraging undesirable economic activity, ensuring that social priorities are achieved, and promoting the development of smaller scale, more labour intensive technologies which are more in harmony with the needs of people and our store of natural resources. (See “Technology’.) In particular there is a need for the development of a technology for the re-use and recycling of resources.
 
 ### Classification of Industry
 
@@ -186,98 +182,23 @@ The Values Party believes that there is an urgent need for government involvemen
 
 In the foreseeable future the government will need to be an action initiator, and a watchdog to ensure that enterprises serve purposes compatible with social goals. However in the long run the communities themselves would preferably take the major responsibility, with the government acting mainly as a forum and overseeing such special functions as the use of resources, energy, trade, transport and communica- tions.
 
-The government would be continually guided in its
-activities by technological, environmental and social
-consequence
- research
- units which would be
-independent of government, and by a continuing,
-community-based public debate on the setting of social
-and economic goals.
-As we have already seen, an important role for the
-government is the broad control of investment activity
- to ensure the proper development of the economy (see
-“Investment’.)
+The government would be continually guided in its activities by technological, environmental and social consequence research units which would be independent of government, and by a continuing, community-based public debate on the setting of social and economic goals. As we have already seen, an important role for the government is the broad control of investment activity to ensure the proper development of the economy (see “Investment’.)
 
 ### Regional Balance
 
-The Values Party sees a major role for the government
-in promoting and maintaining regional balance in the
-economy. As we move towards
- a stable
- economy
- it will
-be important to ensure that no community has too little
-economic development and that no community has too
-much.
+The Values Party sees a major role for the government in promoting and maintaining regional balance in the economy. As we move towards a stable economy it will be important to ensure that no community has too little economic development and that no community has too much.
 
-The development of large urban areas should be
-arrested because of the progressive breakdown of
-community bonds which tends to come with increasing
-size. We must also regenerate country centres which
-are being sapped of their young people, their industry
-and their vitality by the drift to major cities.
-The Values Party would seek to encourage people
-and industry away from the congested areas and
-towards areas which have been suffering decline.
+The development of large urban areas should be arrested because of the progressive breakdown of community bonds which tends to come with increasing size. We must also regenerate country centres which are being sapped of their young people, their industry and their vitality by the drift to major cities.
 
-Positive inducements to industry would include a
-differential freight rates scheme and taxation savings
-for enterprises
- setting up or relocating in less
-developed regions. Negative inducements would range
-from the designation of areas where no new industries
-may be established, to the establishment of a sliding
-scale
- ‘social
- consequences
- tax”.
+The Values Party would seek to encourage people and industry away from the congested areas and towards areas which have been suffering decline.
 
-Industries
-considering setting up in over-developed areas would
-be faced by a tax which would be proportional to the
-added burden their presence would represent to the
-community. The prospect of such a tax would discour-
-age anti-social location decisions by industries.
-The distribution of people is at least as important to
-regional balance as the location of industry. The Values
-Party believes that there is much which can and should
-be done to prevent the decline of communities, and to
-regenerate communities. The location of industry is
-certainly
- an important
- factor
- influencing
- the
-distribution of people, but we must not overlook the
-importance of the provision of services and a sense of
-community. (See ‘‘Health”, “Education”, “Welfare”,
-“Housing”, “Fostering Community.)
+Positive inducements to industry would include a differential freight rates scheme and taxation savings for enterprises setting up or relocating in less developed regions. Negative inducements would range from the designation of areas where no new industries may be established, to the establishment of a sliding scale ‘social consequences tax”. Industries considering setting up in over-developed areas would be faced by a tax which would be proportional to the added burden their presence would represent to the community. The prospect of such a tax would discourage anti-social location decisions by industries.
 
-The decentralisation
- of government
- and the
-development of community government can also play
-an important part in the attainment and maintenance
-of regional balance. (See ‘Government
- Reform’,
-“Decentralising Government”.)
+The distribution of people is at least as important to regional balance as the location of industry. The Values Party believes that there is much which can and should be done to prevent the decline of communities, and to regenerate communities. The location of industry is certainly an important factor influencing the distribution of people, but we must not overlook the importance of the provision of services and a sense of community. (See ‘‘Health”, “Education”, “Welfare”, “Housing”, “Fostering Community.)
 
-While
- all
- these
- government
- actions,
- and
- others
-covered in other sections of the manifesto, are vitally
-important to the achievement of a decentralised,
-co-operative, stable-state economy, perhaps the most
-important task of the government is the provision of
-information and stimulation of public debate on the
-new economy and the implications of community
-control of the means of production, finance and
-distribution.
+The decentralisation of government and the development of community government can also play an important part in the attainment and maintenance of regional balance. (See ‘Government Reform’, “Decentralising Government”.)
+
+While all these government actions, and others covered in other sections of the manifesto, are vitally important to the achievement of a decentralised, co-operative, stable-state economy, perhaps the most important task of the government is the provision of information and stimulation of public debate on the new economy and the implications of community control of the means of production, finance and distribution.
 
 ### Inflation
 

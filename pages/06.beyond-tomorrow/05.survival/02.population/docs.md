@@ -5,15 +5,15 @@ taxonomy:
         - docs
 ---
 
-> “If the earth must lose that great portion of its pleasantness ... for the mere purpose of enabling it to support a larger population; | sincerely hope, for the sake of posterity, that they will be content to be stationary, long before necessity compels them to it.” 
-
-John Stuart Mill, ‘Principles of Political Economy’, 1857 
+> “If the earth must lose that great portion of its pleasantness ... for the mere purpose of enabling it to support a larger population; I sincerely hope, for the sake of posterity, that they will be content to be stationary, long before necessity compels them to it.” 
+> <span class='citation'>[Principles of Political Economy] [foo], John Stuart Mill, 1857
+</span>
 
 Stabilising the population (sometimes referred to as zero population growth, or ZPG) is central to all Values Party policies. New Zealand's present rate of population growth of about two per cent adds approx- imately 60,000 people to the population every year - enough to populate a city the size of Lower Hutt. All of these people must be fed, clothed, housed, educated and employed. (A new primary school is needed for every 200 children, for example.) Moreover, every child has a right to be a wanted member of a family and of society, yet figures indicate that many births in New Zealand are unplanned and unwanted. Government statistics indicate that New Zealand's population will be approaching 5 million by the year 2000. Even if we begin an immediate programme 10 encourage populatjon stabilisation it is unlikely we could stabilise our population below that figure.
 
 ### Why do we need to stabilise our population? 
 
-The world has finite resources. The needs of a rapidly increasing population are already putting unsustain- able strains on our resources and our. physical environ- ment, yet on current trends the world's population will double within the next 35 years. The average New Zealander currently consumes approximately 30 times more resources than the average Asian - far more than our share of the world’s rapidly diminishing resources. We can hardly urge other countries to reduce their rate of population growth unless we are prepared to do the same ourselves. 
+The world has finite resources. The needs of a rapidly increasing population are already putting unsustainable strains on our resources and our. physical environ- ment, yet on current trends the world's population will double within the next 35 years. The average New Zealander currently consumes approximately 30 times more resources than the average Asian - far more than our share of the world’s rapidly diminishing resources. We can hardly urge other countries to reduce their rate of population growth unless we are prepared to do the same ourselves. 
 
 Although relatively underpopulated in terms of numbers in relation to its size and environment, New Zealand is not underpopulated in relation to its role in the world economy. This role is, and will be for the foreseeable future, almost entirely that of producing food. Our production of food is already efficient and highly developed and any increase will result from technology rather than an increase in the labour force. We largely depend on the sale of our agricultural products for our living in the world. Yet at a population of three million we already consume almost half the food we produce. New Zealand's contribution to the world food pool decreases as we eat more of our own produce and turn more farm land into residential land. 
 
@@ -58,15 +58,11 @@ While we do not believe that abortion should be regarded as a population control
 
 Education in human relationships, in responsible parenthood, and in the social, ethical and physical aspects of sexuality is essential for all New Zealanders. Present provisions for such education are simply not adequate, as is indicated by the fact that in 1973, 9206 live births (15.16 per cent) were ex-nuptial and in 1974 over 10,000 New Zealand women had legal abortions here or in Australia . 
 
-### The Values Party supports  
-
-* The extension of such education to all sections of society. In particular, the school curriculum should include a realistic programme of sex education and family life education. 
-
-* The making of all contraceptives and contraceptive advice free and freely available to all regardless of age, sex or marital status [therefore repealing Section 2 of the 1954 amendment to the Police Offences Act 1954]. 
-
-* The provision of free, voluntary sterilisation in an approved manner for both men and women, subject to adequate medical advice and professional counselling.
-
-* A government-sponsored family planning programme which would include subsidies for organisations giving contraceptive advice and a general expansion of birth control facilities. 
+!!!! ### The Values Party supports  
+!!!! * The extension of such education to all sections of society. In particular, the school curriculum should include a realistic programme of sex education and family life education. 
+!!!! * The making of all contraceptives and contraceptive advice free and freely available to all regardless of age, sex or marital status [therefore repealing Section 2 of the 1954 amendment to the Police Offences Act 1954]. 
+!!!! * The provision of free, voluntary sterilisation in an approved manner for both men and women, subject to adequate medical advice and professional counselling.
+!!!! * A government-sponsored family planning programme which would include subsidies for organisations giving contraceptive advice and a general expansion of birth control facilities. 
 
 ### Immigration 
 
@@ -82,18 +78,14 @@ Secondly, because the above would take time to achieve, New Zealand should conti
 
 A problem facing many immigrants, especially those from the Pacific Islands, is adjusting to the different social patterns encountered in New Zealand society. An immigration programme should include assistance in obtaining housing and suitable work, and in generally adapting to New Zealand society. At the same time, efforts should be made to help immigrants retain useful and valuable aspects of their own culture. 
 
-### A Values Government would 
+!!!! ### A Values Government would 
+!!!! * Set annual quotas for immigration, based on emigration figures from New Zealand, so that the base of our population is not increased through immigration. 
+!!!! * Continue to allow a restricted number of skilled immigrants into New Zealand to provide skills we need within our economy. 
+!!!! * Aim to eventually replace skilled immigration through training for skills within our own population. 
+!!!! * Continue to welcome new settlers from the Pacific Islands while at the same time increasing aid to the Islands themselves. 
+!!!! * Set up a comprehensive orientation programme for all immigrants to help them adjust to New Zealand society. This programme would guarantee low-cost quality housing if required, help immigrants to find suitable work, and help them adjust to different social problems. 
+!!!! * lncrease immigration on humanitarian grounds, for example, of refugees and stateless people. 
+!!!! * Ensure a right of permanent residence for spouses of New Zealand citizens and for parents and grandparents of a permanent immigrant.
 
-* Set annual quotas for immigration, based on emigration figures from New Zealand, so that the base of our population is not increased through immigration. 
+[foo]: /references/principles-of-political-economy "The Principles of Political Economy, John Stuart Mills, 1857"
 
-* Continue to allow a restricted number of skilled immigrants into New Zealand to provide skills we need within our economy. 
-
-* Aim to eventually replace skilled immigration through training for skills within our own population. 
-
-* Continue to welcome new settlers from the Pacific Islands while at the same time increasing aid to the Islands themselves. 
-
-* Set up a comprehensive orientation programme for all immigrants to help them adjust to New Zealand society. This programme would guarantee low-cost quality housing if required, help immigrants to find suitable work, and help them adjust to different social problems. 
-
-* lncrease immigration on humanitarian grounds, for example, of refugees and stateless people. 
-
-* Ensure a right of permanent residence for spouses of New Zealand citizens and for parents and grandparents of a permanent immigrant.

@@ -39,7 +39,7 @@ Put your custom CSS in this file.
 }
 #body-inner a:hover {
     text-decoration: none;
-    border-bottom-style: dotted;
+    border-bottom-style: solid;
     border-bottom-color: lightslategray;
     border-width: thin;
 }
@@ -50,4 +50,35 @@ Put your custom CSS in this file.
 
 #chapter p {
     text-align: unset;
+}
+
+blockquote span.citation {
+    display: block;
+}
+
+blockquote span.citation cite {
+    display: inline;
+}
+blockquote span.citation,
+blockquote span.citation cite {
+    text-align:right;
+    color:#333;
+    font-size:.925rem
+    font-weight:larger
+  }
+blockquote span cite:before {
+    content:"\2014 \0020"
+  }
+
+div.page-toc {
+    float: right;
+    padding: 10px;
+    margin:10px;
+    max-width: 30%;
+    font-size: smaller;
+    background-color: #f1f9f1;
+}
+div.page-toc h4,
+div.page-toc ul {
+    margin:0;
 }
