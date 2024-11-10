@@ -7,7 +7,11 @@
 				{{ page.content|raw }}
 			</p>
 			{% for p in page.collection %}
-				<h2>{{ p.title|e }}</h2>
+				<h2><a href="{{ p.url|e }}">{{ p.title|e }}</a></h2>
+				{{ p.header.event.start_date|date(system.pages.dateformat.short) }}
+				{% if p.header.event.end_date %}
+					— 	{{ p.header.event.end_date|date(system.pages.dateformat.short) }}
+				{% endif %}
 				{{ p.summary|raw }}
 			{% endfor %}
 		</div>
