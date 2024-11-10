@@ -41,8 +41,8 @@ In his report to the ILO conference held in Geneva in June this year the Directo
 People must be given a greater say in the running and organising of their work. Industrial Democracy means that all the staff of an enterprise, either directly or through their elected representatives, are instrumentally involved in the decisions relating to the operation of that enterprise.
 
 ### The Values Party
-!!!! # Favours the immediate initiation of a study of forms of industrial democracy currently in operation in the world's industrial nations [for example West Germany and Yugoslavia] with a view to early introduction of full participation of wage and salary workers in decision making at all levels of industry.
-!!!! # Would give immediate support to the freezing industry to institute job enrichment and worker participation programmes. Urgency would be given to the introduction of full industrial democracy in this industry.
+!!!! * Favours the immediate initiation of a study of forms of industrial democracy currently in operation in the world's industrial nations [for example West Germany and Yugoslavia] with a view to early introduction of full participation of wage and salary workers in decision making at all levels of industry.
+!!!! * Would give immediate support to the freezing industry to institute job enrichment and worker participation programmes. Urgency would be given to the introduction of full industrial democracy in this industry.
 
 As well as direct moves towards industrial democracy,
 the Values Party believes that the development of co-
