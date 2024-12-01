@@ -170,7 +170,7 @@ The environment is a system which includes all living things and the air, water 
 Crucial decisions must be made soon at governmental level if this crisis is to be averted. Yet our government still looks at environmental problems in a piecemeal fashion, concentrating on cure rather than prevention. It has still no adequate machinery for looking at food, environmental disruption, energy, resources, and social disruption as a whole. What is happening already in Europe and America can happen here; what is already happening here is part of a general global pattern.
 
 >“By now it should be clear that the main problems of the environment do not arise from temporary and accidental malfunction of existing economic and social systems. On the contrary, they are the warning signs of a profound incompatability between deeply-rooted beliefs in continuous growth and the dawning recognition of the earth as a space-ship, limited in its resources and vulnerable to thoughtless mishandling. The nature of our responses to these symptons is crucial.”
-> <cite>(“A Blueprint for Survival’: The Ecologist.)</cite>
+> <cite>(A Blueprint for Survival: The Ecologist.)</cite>
 
 
 [population]: /beyond-tomorrow/survival/population "Chapter 2: Population"
