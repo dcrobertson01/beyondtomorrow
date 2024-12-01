@@ -1,8 +1,8 @@
 ---
-title: Advanced
+title: Resources
 taxonomy:
-    category: docs
-child_type: docs
+    category: resource
+child_type: resource
 published: false
 ---
 
