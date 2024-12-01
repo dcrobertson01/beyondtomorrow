@@ -56,7 +56,7 @@ Dispersal is the most common form of pollution control - but it isn’t really c
 
 ### Water, Rivers and Lakes
 >“Ecological processes can be disrupted by introducing into them either substances that are foreign to them or the correct ones in the wrong quantities. For example, in estuarine and coastal waters - crucial areas for fisheries - nutrients from sewage and agricultural run-off In modest quantities probably increase productivity, but in excess are as harmful as organo-chlorines and heavy metals.”
-><cite>(“A Blueprint for Survival”: The Ecologist.)</cite>
+><cite>[A Blueprint for Survival: The Ecologist][a-blueprint-for-survival].</cite>
 
 !!!! The Values Party would
 !!!! * Reassess the Water and Soil Conservation Act and its amendments and overhaul its administrative machinery to enable greater public right of redress and heavier penalties for infringement.
@@ -170,7 +170,7 @@ The environment is a system which includes all living things and the air, water 
 Crucial decisions must be made soon at governmental level if this crisis is to be averted. Yet our government still looks at environmental problems in a piecemeal fashion, concentrating on cure rather than prevention. It has still no adequate machinery for looking at food, environmental disruption, energy, resources, and social disruption as a whole. What is happening already in Europe and America can happen here; what is already happening here is part of a general global pattern.
 
 >“By now it should be clear that the main problems of the environment do not arise from temporary and accidental malfunction of existing economic and social systems. On the contrary, they are the warning signs of a profound incompatability between deeply-rooted beliefs in continuous growth and the dawning recognition of the earth as a space-ship, limited in its resources and vulnerable to thoughtless mishandling. The nature of our responses to these symptons is crucial.”
-> <cite>(A Blueprint for Survival: The Ecologist.)</cite>
+> <cite>[A Blueprint for Survival: The Ecologist][a-blueprint-for-survival].</cite>
 
 
 [population]: /beyond-tomorrow/survival/population "Chapter 2: Population"
@@ -180,3 +180,4 @@ Crucial decisions must be made soon at governmental level if this crisis is to b
 [transport]: /beyond-tomorrow/survival/transport "Transport"
 [consumerism]: /beyond-tomorrow/survival/consumerism "Consumerism"
 [housing]: /beyond-tomorrow/survival/housing "Housing"
+[a-blueprint-for-survival]: /resources/a-blueprint-for-survival "A Blueprint for Survival"
