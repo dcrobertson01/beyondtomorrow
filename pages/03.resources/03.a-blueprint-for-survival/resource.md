@@ -2,17 +2,24 @@
 title: 'A Blueprint for Survival'
 date: '01:55 01-12-2024'
 links:
-    source:
-    wikipedea: https://en.wikipedia.org/wiki/A_Blueprint_for_Survival
-Source:
+   -
+        title: Wikipedea
+        site: 'wikipedea'
+        url: https://en.wikipedia.org/wiki/A_Blueprint_for_Survival
+   -
+        title: The Ecologist Vol 2 Issue 1
+        site: 'The Ecologist'
+        url: https://www.resurgence.org/download.cgi?isid=1972-01&serial=ecologist
+source:
     name: The Ecologist
-    site:
-    desc:
-Authors:
-    - Author:
-        name: Edward Goldsmith
-    - Author
-        name:  Robert Allen
+    url: https://theecologist.org
+    desc: "The Ecologist an environmental news and analysis website with a focus on ecological, social and economic justice. We publish daily, bringing the latest news, comment, features and reviews to your screens - for free. You will find news about successful environmental campaigns, stories about advances in academic ecology and discursive articles touching on theoretical approaches that help us understand nature and the impact of our societies on the natural environment."
+
+authors:
+   -
+        name: "Robert Allen"
+   -
+        name: "Edward Goldsmith"
 
 ---
 
