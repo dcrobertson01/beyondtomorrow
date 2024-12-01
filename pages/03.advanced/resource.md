@@ -1,9 +1,10 @@
 ---
 title: Resources
 taxonomy:
-    category: resource
+    category:
+        - resource
 child_type: resource
-published: false
+published: true
 ---
 
 ### Chapter 3
