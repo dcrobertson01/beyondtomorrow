@@ -84,3 +84,7 @@ div.page-toc h4,
 div.page-toc ul {
     margin:0;
 }
+
+.scrollbar-inner {
+    overflow: scroll;
+}

@@ -1,0 +1,6 @@
+    {% if page.header.pdf %}
+      <div class="page-pdf">
+      <em>Download</em>
+      <a href="{{ page.url}}/{{ page.header.pdf.url|e('url') }}">{{ page.header.pdf.title }}</a>
+      </div>
+    {% endif %}
