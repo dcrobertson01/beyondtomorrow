@@ -88,3 +88,16 @@ div.page-toc ul {
 .scrollbar-inner {
     overflow: scroll;
 }
+/*
+ul.topics li.active ul {
+    display: none;
+} 
+
+ul.topics li.active,
+ul.topics li.active ul li.active{
+    display:block;
+    font-weight: bolder;
+    background-color: red;
+    border: 1px red solid;
+}
+*/
