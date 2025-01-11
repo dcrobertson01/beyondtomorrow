@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 > “If the earth must lose that great portion of its pleasantness ... for the mere purpose of enabling it to support a larger population; I sincerely hope, for the sake of posterity, that they will be content to be stationary, long before necessity compels them to it.” 
-> <span class='citation'>[Principles of Political Economy] [foo], John Stuart Mill, 1857
+> <span class='citation'>[Principles of Political Economy] [jsm], John Stuart Mill, 1857
 </span>
 
 Stabilising the population (sometimes referred to as zero population growth, or ZPG) is central to all Values Party policies. New Zealand's present rate of population growth of about two per cent adds approx- imately 60,000 people to the population every year - enough to populate a city the size of Lower Hutt. All of these people must be fed, clothed, housed, educated and employed. (A new primary school is needed for every 200 children, for example.) Moreover, every child has a right to be a wanted member of a family and of society, yet figures indicate that many births in New Zealand are unplanned and unwanted. Government statistics indicate that New Zealand's population will be approaching 5 million by the year 2000. Even if we begin an immediate programme 10 encourage populatjon stabilisation it is unlikely we could stabilise our population below that figure.
@@ -87,5 +87,5 @@ A problem facing many immigrants, especially those from the Pacific Islands, is 
 !!!! * lncrease immigration on humanitarian grounds, for example, of refugees and stateless people. 
 !!!! * Ensure a right of permanent residence for spouses of New Zealand citizens and for parents and grandparents of a permanent immigrant.
 
-[foo]: /references/principles-of-political-economy "The Principles of Political Economy, John Stuart Mills, 1857"
+[jsm]: /references/principles-of-political-economy "The Principles of Political Economy, John Stuart Mills, 1857"
 

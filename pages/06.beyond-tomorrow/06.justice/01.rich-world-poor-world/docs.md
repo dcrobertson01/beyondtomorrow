@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 > “Every man has a right to a decent life before any individual has a surplus above his needs.”
-> <span class="citation">[Julius Nyerere] [jn]</span>.
+> <span class="citation">[Julius Nyerere] [jkn]</span>.
 
 The material gap between the rich countries of the world and the poor countries of the world has never been wider, and the trend is for it to get worse, not better. Less than a quarter of the world’s people earns three quarters of the world’s income. Half the people in the world earn less than NZ$50.00 a year.
 
@@ -111,4 +111,4 @@ The proposed United Nations Charter of Economic Rights and Duties would have the
 
 
 
-[jn]: /references/julius-nyerere "Julius Nyerere"
+[jn]: /references/julius-kambarage-nyerere "Julius Kambarage Nyerere"
