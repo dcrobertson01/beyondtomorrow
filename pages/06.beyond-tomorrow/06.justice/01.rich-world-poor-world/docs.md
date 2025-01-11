@@ -111,4 +111,4 @@ The proposed United Nations Charter of Economic Rights and Duties would have the
 
 
 
-[jn]: /references/julius-kambarage-nyerere "Julius Kambarage Nyerere"
+[jkn]: /references/julius-kambarage-nyerere "Julius Kambarage Nyerere"
