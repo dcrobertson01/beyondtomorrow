@@ -85,8 +85,15 @@ div.page-toc ul {
     margin:0;
 }
 
+div.notices blockquote p {
+    color:unset;
+}
 .scrollbar-inner {
     overflow: scroll;
+}
+
+section#body {
+    max-width: 800px;
 }
 /*
 ul.topics li.active ul {

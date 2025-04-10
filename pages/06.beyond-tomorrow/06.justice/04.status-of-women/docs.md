@@ -5,424 +5,120 @@ taxonomy:
         - docs
 ---
 
-“Discrimination against women is incompatible with
-human dignity and with the welfare of the family and of
-society, prevents their participation on equal terms
-with men in the political, social, economic and cultural
-life of their
- countries
- and
- is an obstacle
- to the
- full
-development of the potentialities of women in the:
-service of their countries and of humanity”
--United Nations Declaration on the Elimination of
-Discrimination Against Women
-The Values Party supports the work of the UN
-Commission on the status of women and endorses the
-UN aims in designating this year as International
-Women's Year. We believe it is time that the status of
-women be considered an important priority in New
-Zealand politics and have taken the initiative by
-offering a comprehensive
- policy in this chapter
- of our
-party's manifesto.
-However we would not be content with raising the
-status of women simply on male terms. We aim also to
-raise the status of traditional women’s values which
-have stressed co-operation rather than competition,
-nurturing, healing, and cherishing instead of exploiting,
-destroying and conquering, and peace instead of
-conflict. We agree with Matthew Arnold that “if ever
-the world sees a time when women shall come together
-purely and simply for the benefit and good of mankind,
-it will be a power such as the world has never
- known.
-We hope
- that
- International
- Women's
- Year will be
-that time but stress that it “must not benefit only a
-small minority of women, conferring on them a spurious
-and privileged equality in an unequal world. If
-International Women's Year becomes obsessed by this
-kind of equality - equality for the few inside the old
-structures at the expense of many and of the possibility
-of new structures
- - it will be irrelevant
- to the
- vast
-majority
- of women”
- (“New
- Internationalist”
- Jan.
-1975.)
-We therefore
- ask New Zealand
- women
- to broaden
-their women’s movement so that “it does not simply
-seek admission to a system which is itself leading the
-world into despair”
- (Ibid). We commend
- to them all our
-party's policies for building an alternative system
-which would stress
- values that women have
-traditionally perceived were more important than
-those which currently prevail.
-The Values
- Party's
- policy on the status
- of women
- is
-based on five premises:
--there are biological differences between men and
-women but far too much has been made of them and
-they do not justify a vast and inequitable system of
-discrimination against women throughout society;
--no human qualities should be culturally labelled
-“male” or “female”. We want to create a cultural
-environment where all qualities can come out in all
-people;
--each individual person has a right to find out the kind
-of person
- she or he is, to strive
- to become
- that person
-and to choose in what capacity she or he will serve
-society. Society should offer the same opportunities
-and encouragement
- to all to realise their individual
-potential;
--in a truly equal society women would be in a position
-comparable to men in that they would be able to
-combine occupational and other roles with those of
-spouse
- and
- parent.
- Men and
- women
- should
- share
+> Discrimination against women is incompatible with human dignity and with the welfare of the family and of society, prevents their participation on equal terms with men in the political, social, economic and cultural life of their countries and is an obstacle to the full development of the potentialities of women in the service of their countries and of humanity
+> <span class="citation">United Nations Declaration on the Elimination of Discrimination Against Women</span>
+
+The Values Party supports the work of the UN Commission on the status of women and endorses the UN aims in designating this year as International Women's Year. We believe it is time that the status of women be considered an important priority in New Zealand politics and have taken the initiative by offering a comprehensive policy in this chapter of our party's manifesto.
+
+However we would not be content with raising the status of women simply on male terms. We aim also to raise the status of traditional womens values which have stressed co-operation rather than competition, nurturing, healing, and cherishing instead of exploiting, destroying and conquering, and peace instead of conflict. We agree with Matthew Arnold that “if ever the world sees a time when women shall come together purely and simply for the benefit and good of mankind, it will be a power such as the world has never known."
+
+We hope that International Women's Year will be that time but stress that it “must not benefit only a small minority of women, conferring on them a spurious and privileged equality in an unequal world. If International Women's Year becomes obsessed by this kind of equality - equality for the few inside the old structures at the expense of many and of the possibility of new structures - it will be irrelevant to the vast majority of women” (“New Internationalist” Jan. 1975.)
+
+We therefore ask New Zealand women to broaden their women’s movement so that “it does not simply seek admission to a system which is itself leading the world into despair” (Ibid). We commend to them all our party's policies for building an alternative system which would stress values that women have traditionally perceived were more important than those which currently prevail.
+
+The Values Party's policy on the status of women is based on five premises: 
+
+* there are biological differences between men and women but far too much has been made of them and they do not justify a vast and inequitable system of discrimination against women throughout society;
+* no human qualities should be culturally labelled “male” or “female”. We want to create a cultural environment where all qualities can come out in all people;
+* each individual person has a right to find out the kind of person she or he is, to strive to become that person and to choose in what capacity she or he will serve society. Society should offer the same opportunities and encouragement to all to realise their individual potential;
+* in a truly equal society women would be in a position comparable to men in that they would be able to combine occupational and other roles with those of spouse and parent. Men and women should share
 equally the responsibility for home and children;
--every
- time we liberate
- a woman we liberate
- a man ...
-We need the imagination, dedication, and creativity of
-everyone
- ... for a mutually
- respecting
- and
- supportive
-planetary society.” (Dr Margaret Mead.)
-Education at Home
-New
- Zealand
- society
- is characterised
- by a
- sexual
-version of apartheid. From the beginning children are
-taught concepts of masculinity and femininity, both
-deliberately and unconsciously. A girl's attention is
-directed
- in and on herself and the home. A boy is
-conditioned
- to look out to society and the world.
-Initiative, aggression and competitive instincts
- are
-strongly fostered in male children; tenderness,
- self
-control and flexibility in female children.
-Girls are encouraged
- to be decorative,
- helpful and
-clean. Boys are encouraged
- to be adventurous,
- curious
-and rough. Girls have different toys and different books
-from boys. Relatively few toys are usually given to
-children of both sexes. Books for children reflect the
-same bias. Many studies show that two thirds of story
-books feature boys compared with one third featuring
-girls in both illustrations and text.
-Education in sex roles outside of formal education is
-the main influence
- in keeping
- the status
- of women
- low.
-It is not so much that it controls a woman's alternatives
-but rather her motivation to choose any but one of
-those alternatives. As a result, half the population is
-under-rated, under-encouraged
- and under-achieving.
-How many potentially
- effective
- human
- beings
- can we
-afford to suppress
- in the name of traditional
- role
-playing?
-The Values Party would
-e Reorient education to emphasise cooperation, caring, sharing and
-the worth of every child rather than achievement and competition.
-e Foster the idea of partnership in marriage and childrearing at all
-levels of education, stressing
- role equality and sharing of
-responsibility.
-eo Encourage all people by means of a Government-sponsored
-publicity campaign to avoid sex stereotyping in the rearing and
-education of children.
-Education at School
-By the time children start school they have already
-been burdened with an enormous load of traditional
-masculine and feminine lore - how a man should
-behave,
- what a woman
- should
- be. Stereotyping
- is less
-blatant in the school system and is effected more by
-individual teachers and the pupils’ own peers than by
-the system itself. Nevertheless, education for girls
-differs in extent and substance from education for
-boys.
-Girls observe that women predominate at the lower
-levels of the school system and man at the higher
-levels. They are more likely to have a male head of their
-school than a female. They do better academically at
-school than boys until puberty, yet leave school earlier
-with fewer qualifications. They take different subjects
-at secondary school. Fewer of them go on to tertiary
-education
- and
- again,
- those
- who
- do, take
- different
-subjects and degrees from those taken by most men.
-Although in theory, educational opportunities are as
-available to girls as to boys, the assumptions made by
-pupils, teachers and parents seriously limit the
-girls’ education.
-Boys know education is relevant to them: they know
-they will have to get a job and work most of their lives:
-they fear failure. School seems less relevant to a girl
-once she has been taught that her main interest is
-supposed to be in the home and her main aim is to
-attract a man. Failure is less important to her as there
-is always the escape route of marriage.
-From the day she starts school to the day she leaves
-a girl can assume
- she will receive approval
- for what she
-Is (as an object) rather than for what she does (as a
+* every time we liberate a woman we liberate a man ...
+
+We need the imagination, dedication, and creativity of everyone ... for a mutually respecting and supportive planetary society.” (Dr Margaret Mead.)
+
+### Education at Home
+
+New Zealand society is characterised by a sexual version of apartheid. From the beginning children are taught concepts of masculinity and femininity, both deliberately and unconsciously. A girl's attention is directed in and on herself and the home. A boy is conditioned to look out to society and the world. Initiative, aggression and competitive instincts are strongly fostered in male children; tenderness, self control and flexibility in female children. 
+
+Girls are encouraged to be decorative, helpful and clean. Boys are encouraged to be adventurous, curious and rough. Girls have different toys and different books from boys. Relatively few toys are usually given to children of both sexes. Books for children reflect the same bias. Many studies show that two thirds of story books feature boys compared with one third featuring girls in both illustrations and text.
+Education in sex roles outside of formal education is the main influence in keeping the status of women low. It is not so much that it controls a woman's alternatives but rather her motivation to choose any but one of those alternatives. As a result, half the population is under-rated, under-encouraged and under-achieving. How many potentially effective human beings can we afford to suppress in the name of traditional role playing?
+!!!! #### The Values Party would
+!!!! * Reorient education to emphasise cooperation, caring, sharing and the worth of every child rather than achievement and competition.
+!!!! * Foster the idea of partnership in marriage and childrearing at all levels of education, stressing role equality and sharing of responsibility.
+!!!! * Encourage all people by means of a Government-sponsored publicity campaign to avoid sex stereotyping in the rearing and education of children.
+
+### Education at School
+By the time children start school they have already been burdened with an enormous load of traditional masculine and feminine lore - how a man should behave, what a woman should be. Stereotyping is less blatant in the school system and is effected more by individual teachers and the pupils’ own peers than by the system itself. Nevertheless, education for girls differs in extent and substance from education for boys.
+
+Girls observe that women predominate at the lower levels of the school system and man at the higher levels. They are more likely to have a male head of their school than a female. They do better academically at school than boys until puberty, yet leave school earlier with fewer qualifications. They take different subjects at secondary school. Fewer of them go on to tertiary education and again, those who do, take different subjects and degrees from those taken by most men.
+
+Although in theory, educational opportunities are as available to girls as to boys, the assumptions made by pupils, teachers and parents seriously limit the girls’ education.
+
+Boys know education is relevant to them: they know they will have to get a job and work most of their lives: they fear failure. School seems less relevant to a girl once she has been taught that her main interest is supposed to be in the home and her main aim is to attract a man. Failure is less important to her as there is always the escape route of marriage.
+
+From the day she starts school to the day she leaves a girl can assume she will receive approval for what she Is (as an object) rather than for what she does (as a
 subject).
-Academic success can restrict the number of
-marriage partners available to her and so the
-motivation of older female students to achieve is less
-than that of their male peers.
-Education at school will continue to be inadequate in
-preparing girls for careers and parenthood for as long
-as society fosters different expectations for each sex
-and the belief that sex roles must differ for men and
-women.
-The Values Party would
-e Ensure that all trainee teachers received instruction in how to
-perceive and counteract sex stereotyping of their pupils.
-e Encourage teachers to pay particular attention to motivating
-adolescent girls to achieve and to resist social pressures which could
-discourage them from training for possibly life-long careers,
-e Attach pre-schools where possible to secondary schools to enable
-students of both sexes to be involved in practical family life education
-which completely avoided role stereotyping.
-» Encourage more men to be involved in education ideally to reach a
-staff ratio
- of 50:50 with women
- at all levels.
-e Eliminate sex bias from teaching materials and school books.
-e Make all subjects, courses, sports facilities, and cultural
- amenities
-equally available to both sexes at all levels of education.
-e Make co-educational schools the norm at all levels of schooling.
-e Provide an integrated manual training scheme for all primary
-children.
-e¢ Amend
- social studies curricula to stress adequately
- the
-achievement of women, and the history of women as a social group.
-e Promote opportunities for work experience in a wide range of
-occupations in a greater number of schools.
-e Expand and improve the vocational guidance counselling service so
-that it does not channel girls into lower-paid, less responsible, less
-challenging work, or discourage boys from entering fields traditionally
-reserved for women.
-Education after schooling
-Education for sex roles extends beyond school into
-adulthood and continues until death. As reality often
-does not match the expectations girls have about
-marriage or boys about work, adults of both sexes need
-constant assurances and admonitions to bolster up the
-crumbling walls of the old stereotypes.
-The mass media do a lot of role reinforcing.
- Advert-
-isements show passive, obliging, dependent women,
-always child-like, slim and decorative, often in comp-
-etition with other women and envying them. Men are
-shown as strong, successful, able to own status
-symbols, admired by women, knowledgeable, cool and
-efficient.
-It is ironic that a society which is so geared to sex
-roles makes such poor provision for the women whose
-opportunities for continuing education are restricted
-by childbearing and domestic responsibilities.
-The Values Party would
-e Discourage all advertising, especially on television, which
-undermined and insulted women's integrity, intelligence or sexuality.
-e Disseminate more information about facilities and opportunities for
-continuing education.
-e Provide more free education for adults especially those whose
-opportunities have been restricted by domestic responsibilities.
-e Extend bursaries to part-time tertiary students.
-eo Article
- 23 [3] in the Universal Declaration of Human Rights:
-“everyone
- who works has the right to just and favourable
-remuneration
- ... ensuring
- an existence
- worthy
- of human
- dignity.”
-e That Government or community expenditure should be diverted
-towards paying for the essential care and cost of the sick, disabled,
-handicapped, old and young.
-In the long term, a Values Government
- would
-implement a national minimum income scheme which
-would provide for actual payments to be made to those
-working usefully without proper remuneration
- by
-society, additional to the income which belonged to
-everyone
- by right (see Economics
- policy).
-In the meantime, we believe that a fair wage, broadly
-graded according to actual work done and actual
-responsibility carried, should be paid by the State to
-every person irrespective of sex who works in the home
-or within the community caring part-time or full-time
-for a person who is partially or totally dependent for
-reasons of age and/or physical or mental health and
-who would otherwise be a charge upon the State. This
-wage would not include remuneration
- for any
-housework
- other than that generated
- by the
-dependants
- they are being employed
- to care for.
-The Values Party believes
-e Reasonable payments should be made to parents who by law and
-necessity are required to teach their own children under the guidance
-of the Correspondence School [children in remote areas who cannot
-be sent to school must be enrolled in the correspondence school by
-the age of seven, although most are enrolled at five and the mothers
-must act as unpaid teachers, spending about five hours a day super-
-vising and teaching them. About 600 New Zealand women are in this
-position.]
-e The experience gained by persons in bringing up a family and in
-voluntary work should be taken into account where relevant by
-employers [especially the Public Service].
-e Financial assistance should be given to individual voluntary
-workers in such form as tax exemptions for the use of private vehicles.
-e Community centres should be established which could provide
-scope for voluntary bodies to strengthen and expand their activities
-which otherwise will diminish as improving employment conditions
-attract increasing numbers of women into alternative paid work.
-Childbirth and Health
-The twentieth century has seen an enormous improve-
-ment in the health of women in most countries,
-primarily because of new birth control technology.
-Previously, many women spent most of their lives
-pregnant or breast feeding. They died early, their
-bodies worn out by continual childbirth - often they
-died in childbirth.
-Their new freedom to choose parenthood or not has
-enabled women to seek more personal freedom in
-other areas of their lives too. For more detail on the
-relevance of the new birth control technology see the
-section on fertility control in the chapter “Individual
-Freedom”, (which deals with sex edxucation, contra-
-ception, sterilisation, and abortion).
-Our policies on women's health are based on our
-belief that all persons should have as much say as
-possible over what happens to their bodies.
-We disapprove of the degree to which childbirth has
-been institutionalised and depersonalised.
-The Values Party recommends
-e More real attempts to prepare women in the techniques of natural
-childbirth and an overall humanising of the process.
-e Re-education of all professions involved in the provision of
-obstetrical services to give real support and encouragement
- to
-women who want more control and understanding of their bodies
-during childbirth.
-e That hospitals cease discriminating against single mothers in such
-matters as who they receive as visitors.
-e Total revision of New Zealand maternity services giving mothers
-the first and last say.
-e Support
- for the “pregnant
- patients”
- bill of rights
- at present
- being
-advocated throughout New Zealand.
-o Better provision for home deliveries and for counselling in breast
-feeding.
-e Medical research into women’s health should receive at least the
-same degree of financial assistance as that into the area of general
-health. At present too many so-called “women's problems” are simply
-accepted
- as a fact of life, not to be remedied.
-e The medical world not assume so often that women's specific health
-problems are neurotic in origin. This assumption may cause a doctor
-to be less sympathetic than should be expected and may in some
-cases result in inadequate treatment of the physical ailment.
-e Measures be introduced towards achieving a balanced ratio of
-women in the medical and para-medical professions and at all
-decision-making levels in the health service.
-e There be more health care counselling and referral services in
-clinics located in community centres.
-e The cost of breast prostheses be included under Social Security as
-an artificial aid benefit.
-We are concerned that the incidence of mental
-breakdown in New Zealand is substantially higher
-among women than men as evidenced by the high ratio
-of women to men in admittances to mental hospitals
-and the high proportion
- of women
- in total
- attempted
-suicides. “Research .. has related this situation to
-depression caused by the pressures of domestic and
-social conditions on women, particularly those fully
-engaged in the home ... (and those) in the childbearing
-age group.” Report of the NZ Select Committee on
-Women’s Rights, June 1975, p.81.
-57
+
+Academic success can restrict the number of marriage partners available to her and so the motivation of older female students to achieve is less than that of their male peers.
+
+Education at school will continue to be inadequate in preparing girls for careers and parenthood for as long as society fosters different expectations for each sex and the belief that sex roles must differ for men and women.
+
+!!!! ####       The Values Party would
+!!!! * Ensure that all trainee teachers received instruction in how to perceive and counteract sex stereotyping of their pupils.
+!!!! * Encourage teachers to pay particular attention to motivating adolescent girls to achieve and to resist social pressures which could discourage them from training for possibly life-long careers,
+!!!! * Attach pre-schools where possible to secondary schools to enable students of both sexes to be involved in practical family life education which completely avoided role stereotyping.
+!!!! * Encourage more men to be involved in education ideally to reach a staff ratio of 50:50 with women at all levels.
+!!!! * Eliminate sex bias from teaching materials and school books.
+!!!! * Make all subjects, courses, sports facilities, and cultural amenities equally available to both sexes at all levels of education.
+!!!! * Make co-educational schools the norm at all levels of schooling.
+!!!! * Provide an integrated manual training scheme for all primary children.
+!!!! * Amend social studies curricula to stress adequately the achievement of women, and the history of women as a social group.
+!!!! * Promote opportunities for work experience in a wide range of occupations in a greater number of schools.
+!!!! * Expand and improve the vocational guidance counselling service so that it does not channel girls into lower-paid, less responsible, less challenging work, or discourage boys from entering fields traditionally reserved for women.
+
+### Education after schooling
+
+Education for sex roles extends beyond school into adulthood and continues until death. As reality often does not match the expectations girls have about marriage or boys about work, adults of both sexes need constant assurances and admonitions to bolster up the crumbling walls of the old stereotypes. The mass media do a lot of role reinforcing.
+
+Advertisements show passive, obliging, dependent women, always child-like, slim and decorative, often in competition with other women and envying them. Men are shown as strong, successful, able to own status symbols, admired by women, knowledgeable, cool and efficient.
+
+It is ironic that a society which is so geared to sex roles makes such poor provision for the women whose opportunities for continuing education are restricted by childbearing and domestic responsibilities.
+
+!!!! #### The Values Party would
+!!!! * Discourage all advertising, especially on television, which undermined and insulted women's integrity, intelligence or sexuality.
+!!!! * Disseminate more information about facilities and opportunities for continuing education.
+!!!! * Provide more free education for adults especially those whose opportunities have been restricted by domestic responsibilities.
+!!!! * Extend bursaries to part-time tertiary students.
+!!!! * Article 23 [3] in the Universal Declaration of Human Rights:
+!!!! > "everyone who works has the right to just and favourable remuneration ... ensuring an existence worthy of human dignity."
+!!!! * That Government or community expenditure should be diverted towards paying for the essential care and cost of the sick, disabled, handicapped, old and young.
+
+In the long term, a Values Government would implement a national minimum income scheme which would provide for actual payments to be made to those working usefully without proper remuneration by society, additional to the income which belonged to everyone by right (see Economics policy).
+
+In the meantime, we believe that a fair wage, broadly graded according to actual work done and actual responsibility carried, should be paid by the State to every person irrespective of sex who works in the home or within the community caring part-time or full-time for a person who is partially or totally dependent for reasons of age and/or physical or mental health and who would otherwise be a charge upon the State. This wage would not include remuneration for any housework other than that generated by the dependants they are being employed to care for.
+
+!!!! #### The Values Party believes
+!!!! * Reasonable payments should be made to parents who by law and necessity are required to teach their own children under the guidance of the Correspondence School [children in remote areas who cannot be sent to school must be enrolled in the correspondence school by the age of seven, although most are enrolled at five and the mothers must act as unpaid teachers, spending about five hours a day super- vising and teaching them. About 600 New Zealand women are in this position.]
+!!!! * The experience gained by persons in bringing up a family and in voluntary work should be taken into account where relevant by employers [especially the Public Service].
+!!!! * Financial assistance should be given to individual voluntary workers in such form as tax exemptions for the use of private vehicles.
+!!!! * Community centres should be established which could provide scope for voluntary bodies to strengthen and expand their activities which otherwise will diminish as improving employment conditions attract increasing numbers of women into alternative paid work.
+### Childbirth and Health
+The twentieth century has seen an enormous improve- ment in the health of women in most countries, primarily because of new birth control technology. Previously, many women spent most of their lives pregnant or breast feeding. They died early, their bodies worn out by continual childbirth - often they died in childbirth.
+
+Their new freedom to choose parenthood or not has enabled women to seek more personal freedom in other areas of their lives too. For more detail on the relevance of the new birth control technology see the section on fertility control in the chapter “Individual Freedom”, (which deals with sex edxucation, contra- ception, sterilisation, and abortion).
+
+Our policies on women's health are based on our belief that all persons should have as much say as possible over what happens to their bodies. 
+
+We disapprove of the degree to which childbirth has been institutionalised and depersonalised.
+
+!!!! #### The Values Party recommends
+!!!! * More real attempts to prepare women in the techniques of natural childbirth and an overall humanising of the process.
+!!!! * Re-education of all professions involved in the provision of obstetrical services to give real support and encouragement to women who want more control and understanding of their bodies during childbirth.
+!!!! * That hospitals cease discriminating against single mothers in such matters as who they receive as visitors.
+!!!! * Total revision of New Zealand maternity services giving mothers the first and last say.
+!!!! * Support for the “pregnant patients” bill of rights at present being advocated throughout New Zealand.
+!!!! * Better provision for home deliveries and for counselling in breast feeding.
+!!!! * Medical research into women's health should receive at least the same degree of financial assistance as that into the area of general health. At present too many so-called “women's problems” are simply accepted as a fact of life, not to be remedied.
+!!!! * The medical world not assume so often that women's specific health problems are neurotic in origin. This assumption may cause a doctor to be less sympathetic than should be expected and may in some cases result in inadequate treatment of the physical ailment.
+!!!! * Measures be introduced towards achieving a balanced ratio of women in the medical and para-medical professions and at all decision-making levels in the health service.
+!!!! * There be more health care counselling and referral services in clinics located in community centres.
+!!!! * The cost of breast prostheses be included under Social Security as an artificial aid benefit.
+
+We are concerned that the incidence of mental breakdown in New Zealand is substantially higher among women than men as evidenced by the high ratio of women to men in admittances to mental hospitals and the high proportion of women in total attempted suicides. 
+>“Research .. has related this situation to depression caused by the pressures of domestic and social conditions on women, particularly those fully engaged in the home ... (and those) in the childbearing age group.” 
+> Report of the NZ Select Committee on Women’s Rights, June 1975, p.81.
+
 The Values Party believes
  all its policies on the status
 of women would reduce these pressures
