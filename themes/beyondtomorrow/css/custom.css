@@ -77,6 +77,7 @@ div.page-toc {
     padding: 10px;
     margin:10px;
     max-width: 30%;
+    min-width: 25S0px;
     font-size: smaller;
     background-color: #f1f9f1;
 }
@@ -93,7 +94,7 @@ div.notices blockquote p {
 }
 
 section#body {
-    max-width: 800px;
+    max-width: 1200px;
 }
 /*
 ul.topics li.active ul {

@@ -1,8 +1,12 @@
 ---
-title: 'Status of Women'
+title: 'The Status of Women'
 taxonomy:
     category:
         - docs
+pdf: 
+    url: 'Beyond Tomorrow - The Status of Women.pdf'
+    title: 'Beyond Tomorrow - The Status of Women'
+
 ---
 
 > Discrimination against women is incompatible with human dignity and with the welfare of the family and of society, prevents their participation on equal terms with men in the political, social, economic and cultural life of their countries and is an obstacle to the full development of the potentialities of women in the service of their countries and of humanity
@@ -54,7 +58,7 @@ Academic success can restrict the number of marriage partners available to her a
 
 Education at school will continue to be inadequate in preparing girls for careers and parenthood for as long as society fosters different expectations for each sex and the belief that sex roles must differ for men and women.
 
-!!!! ####       The Values Party would
+!!!! #### The Values Party would
 !!!! * Ensure that all trainee teachers received instruction in how to perceive and counteract sex stereotyping of their pupils.
 !!!! * Encourage teachers to pay particular attention to motivating adolescent girls to achieve and to resist social pressures which could discourage them from training for possibly life-long careers,
 !!!! * Attach pre-schools where possible to secondary schools to enable students of both sexes to be involved in practical family life education which completely avoided role stereotyping.
@@ -119,561 +123,142 @@ We are concerned that the incidence of mental breakdown in New Zealand is substa
 >“Research .. has related this situation to depression caused by the pressures of domestic and social conditions on women, particularly those fully engaged in the home ... (and those) in the childbearing age group.” 
 > Report of the NZ Select Committee on Women’s Rights, June 1975, p.81.
 
-The Values Party believes
- all its policies on the status
-of women would reduce these pressures
- and improve
-these conditions.
-Marriage and Divorce
-The Values Party would discourage
- all practices
-resulting from regulations,
- orders, stipulations, awards
-and rulings which assume that women, especially
-married women, have only dependent status or which
-assume that women are financially irresponsible and
-not credit-worthy or that breadwinners are necessarily
-male (for example
- the Housing Corporation
- defines
- the
-breadwinner
- as the male spouse if he is capable of
-working).
-The Values Party would
-e Outlaw discrimination against women in the provision of all goods
-and services including grants, mortgages, loans, credit finance,
-banking and insurance facilities: in particular outlaw the practice of
-requiring women wishing to undertake a financial commitment to
-provide a male guarantor or the signature of a husband.
-e Condense the Matrimonial Property Act, Domestic Proceedings Act
-and Matrimonial Proceedings Act into one Domestic Act written with a
-marriage
- contract
- attached
- as a schedule
- to it; this contract
- to set out
-all legal obligations of each spouse.
-¢ Amend legislation so that there be no obligation of one spouse to
-support the other financially; their joint obligation to support children
-to be set out, including procedures to be followed in the event of
-separation. Another schedule would become operative if the couple
-had a child or children and one partner stayed at home to care for
-them.
-e Amend the Domestic Actions Bill to support the abolition of actions
-which treat women as chattels,
-» Amend
- the law so that
- irreconcileable
- break-down
- of a marriage
-would be the only grounds for divorce.
-e Base divorce settlements on the principle that a couple should
-generally be entitled to equal interest in matrimonial property
-[especially a joint family home] whether each person's contribution
-was in monetary form or not.
-e Provide more legal aid for women whose husbands have far greater
-financial resources and who are at a disadvantage when they face the
-protracted legal proceedings which can follow from the application of
-the matrimonial and domestic laws. Women should have the same
-chance to state their case as a male breadwinner.
-o Make sickness
- and unemployment
- benefits
- the same
- for married
-persons of either sex as for single persons.
-Maori Women
-The Values Party is particularly concerned by the effect
-of urbanisation on Maori women. Since 1971 the rate of
-urbanisation has risen from 25 to 70 per cent of the
-total.
-Maori women
- marry younger,
- start
- bearing
- children
-earlier, bear larger numbers
- of children,
- and stop
-childbearing later.
-Since
- Maori
- families
- are
- larger
- and
- their
-breadwinners’
- wages lower, Maori women are
- being
-forced to work at a crucial stage in their children’s lives
-in order to supplement the family income. 24.7 per cent
-(1971) of all married
- Maori women work. They tend to
-be younger than their counterparts
- and they work
-between
- pregnancies.
- Their earnings
- are extremely
- low
-mainly because of the fact that 89 per cent of them
-have no qualifications.
-58
-The Values Party believes that its policies on the
-status of women and on race relations would greatly
-reduce the social and economics pressures on maori
-women.
-Changing the law
+The Values Party believes all its policies on the status of women would reduce these pressures and improve these conditions.
+
+### Marriage and Divorce
+The Values Party would discourage all practices resulting from regulations, orders, stipulations, awards and rulings which assume that women, especially married women, have only dependent status or which assume that women are financially irresponsible and not credit-worthy or that breadwinners are necessarily male (for example the Housing Corporation defines the breadwinner as the male spouse if he is capable of working).
+!!!! ##### The Values Party would
+!!!! * Outlaw discrimination against women in the provision of all goods and services including grants, mortgages, loans, credit finance, banking and insurance facilities: in particular outlaw the practice of requiring women wishing to undertake a financial commitment to provide a male guarantor or the signature of a husband.
+!!!! * Condense the Matrimonial Property Act, Domestic Proceedings Act and Matrimonial Proceedings Act into one Domestic Act written with a marriage contract attached as a schedule to it; this contract to set out all legal obligations of each spouse.
+!!!! * Amend legislation so that there be no obligation of one spouse to support the other financially; their joint obligation to support children to be set out, including procedures to be followed in the event of separation. Another schedule would become operative if the couple had a child or children and one partner stayed at home to care for them.
+!!!! * Amend the Domestic Actions Bill to support the abolition of actions which treat women as chattels,
+!!!! * Amend the law so that irreconcileable break-down of a marriage would be the only grounds for divorce.
+!!!! * Base divorce settlements on the principle that a couple should generally be entitled to equal interest in matrimonial property \[especially a joint family home\] whether each person's contribution was in monetary form or not.
+!!!! * Provide more legal aid for women whose husbands have far greater financial resources and who are at a disadvantage when they face the protracted legal proceedings which can follow from the application of the matrimonial and domestic laws. Women should have the same chance to state their case as a male breadwinner.
+!!!! * Make sickness and unemployment benefits the same for married persons of either sex as for single persons.
+
+### Maori Women
+The Values Party is particularly concerned by the effect of urbanisation on Maori women. Since 1971 the rate of urbanisation has risen from 25 to 70 per cent of the total.
+
+Maori women marry younger, start bearing children earlier, bear larger numbers of children, and stop childbearing later.
+
+Since Maori families are larger and their breadwinners’ wages lower, Maori women are being forced to work at a crucial stage in their children’s lives in order to supplement the family income. 24.7 per cent (1971) of all married Maori women work. They tend to be younger than their counterparts and they work between pregnancies.
+
+Their earnings are extremely low mainly because of the fact that 89 per cent of them have no qualifications.
+
+The Values Party believes that its policies on the status of women and on race relations would greatly reduce the social and economics pressures on maori women.
+
+### Changing the law
+
 Previous sections present policy to:
-_ prevent the more blatant forms of discrimination
-against women in New Zealand society;
-- create a cultural environment where the equal
-status of women and of traditional women’s values
-can be achieved.
-In addition to the provisions in policies given above,
-general
- legislation
- is needed
- to bring New Zealand
- law
-into conformity with international
- instruments
- relating
-to the status of women.
-Much of our law has developed from the basis of
-Victorian male attitudes which were paternalistic and
-protective towards women, relegating them to a
-position of dependence. Such attitudes persist among
-members of the public and cannot be changed
-overnight but there is no reason for any delay in
-altering all New Zealand
- laws developed
- on such an
-unjustifiable
- basis. Such
- alterations
- will promote the
-changes needed in attitudes throughout our society,
-especially if complemented by educative action.
-The Values Party would
-e Examine,
- alter
- and add to all existing
- legislation
- with a view to
-detecting and eliminating all legal disabilities of, and discrimination
-against, persons on the basis of sex, marital status, or sexual
-preference, and prescribe sanctions against discriminatory practices.
-Machinery
- - is
- needed
- to
- enforce
- all
- such
- new
-legislation,
-e Set up an office similar to that of the ombudsman
- to examine
- and
-remedy discrimination against persons on the basis of sex, marital
-status, or sexual preference, in particular infringements of the Equal
-Pay Act. Holders
- of office must
- have the power
- to prosecute
- and the
-complainant should be able to approach them directly. Another
-function of this office would be to inform and educate the public on the
-implications of equality for women.
-e¢ Recommend that all Government departments examine practices
-which discriminate against persons on the basis of their sex, marital
-status, or sexual preference, or which treat women in a paternalistic
-manner.
-e Support legislative amendments to the effect that in cases of rape,
-the woman's sexual experience, apart from that with the person being
-prosecuted, should not be admissible evidence - the complainant be
-referred to only as Ms X; all names be suppressed until a conviction is
-entered.
-e Make provision in the Superannuation Act for women who do not
-work for money [such as farmers’ wives].
-e Extend the Joint Family Homes Act to cover farm houses.
-Power
-It is a fact that power in most of the forms that matter
-in our society - in government, in commerce, in religion,
-in community status - plus the power of wealth,
-weapons, and the press is largely in men’s hands in
-New Zealand.
-e Ensure that more part-time tertiary courses were available and
-that existing courses [for example at Massey] were better publicised.
-e Provide more opportunity for parents returning to the work force to
-train for a different occupation or to familiarise themselves with their
-previous occupation.
-® Establish more courses to give greater confidence to older parents
-re-entering the workforce at technical institutes in the main cities.
-e Encourage firms to retrain people in technical skills outside those
-traditionally accepted as suitable for their sex.
-e Establish a permanent system of education through television for
-the benefit of home-bound spouses.
-Employment of Women
-The Values Party szes no reason in terms of inherent
-qualities why a woman should not be able to undertake
-any job for which she is qualified and to be successful in
-that job. Yet historically
- women have been employed
- in
-large numbers only when there is a shortage of male
-workers
- or where
- it is cheaper
- to pay women
- than men.
-New Zealand has a shortage of skilled labour which it
-prefers to relieve by means of immigration. The Values
-Party would however
- look to the vast segments
- of our
-indigenous population which are employed below their
-potential
- (and sometimes
- below their skill, particularly
-when re-entering
- the workforce).
- Most of these are
-women.
-Women in employment
- are generally
- unskilled or
-semi-skilled,
- doing jobs with minimal responsibility
- and
-jobs which are mechanical, repetitive and boring (“that
-men couldn't be expected to do’). The number of
-occupations effectively open to women is limited - men
-dominate factory, transport and agricultural jobs while
-women hold by far the greatest proportion of clerical
-and service jobs.
-The Values Party would
-e Eliminate separate labour markets for men and women.
-e Prohibit the advertising of situations vacant in which sex is
-specified even though irrelevant to the position.
-Recommend
- all employers
- to:
-- Place advertisements
- where both
- men and women
- will read them.
-- Depict both men and women on the job in career literature.
-- Reach both men and women on recruiting trips.
-- Standardise interview practices for men and women applicants,
-$0 that both are asked the same questions.
-Equal pay
-Over the last three
- censuses
- the annual
- median
-income for female workers has been only half the level
-for males. This will be somewhat
- improved when the
-Equal Pay Act is fully implemented
- in 1977.
-However, although equal pay has been in force for
-years in the Public Service, women still occupy lower
-rather than higher grades. Unless New Zealand is
-careful
- its equal pay legislation
- could fail by default
- as
-has happened elsewhere, especially with regard to the
-effects of fringe benefits (such as gratuities,
-low-interest
- home loans, medical and pension
-schemes) and job reclassification on real earning
-differentials.
-59
-The issue of equal pay is neatly side-stepped
- also in
-fields where
- certain
- positions
- are
- always
- filled
- by
-women.
-The Values Party believes that in determining
- fair
-rates
- of pay in occupations
- filled
- mainly
- by women,
-notional male rates must be based on what employers
-would have to pay male employees recruited from the
-labour
- pool in any given region, and based
- also on job
-evaluations which have been carried out scientifically
-rather than by rule of thumb.
-The Values Party would establish a public relations
-campaign through the Labour Department to
-e Allay the fears of both employers
- and employees
- regarding
- the
-implications of the Equal Pay Act.
-e Re-educate
- employers
- with
- outdated
- prejudiced
- attitudes
-regarding
- the employment
- of women {for example
- “that
- men are more
-committed to their work than women”).
-o Make employers more aware of the advantages
- to themselves of
-employing
- more
- women
- [for
- example,
- publicise
- the
- low female
-turnover rate compared with that for males employed in freezing
-works, the superior planting rates of women forestry workers, the
-dexterity of women in occupations such as carpet-weaving].
-e Seek trade union understanding and support for changes in the
-pattern of women’s employment.
-Conditions of work
-Fair pay must be accompanied by fair conditions. The
-reason some occupations, previously filled exclusively
-by men, are now accepting
- women, is often because
- the
-poor conditions _are not attracting
- enough male
-applicants. In order to improve working conditions for
-both men and women.
-The Values Party would
-o Apply protective
- legislation
- [for example
- regarding
- hours
- of work,
-toilet and resting facilities, heavy lifting which might
- injure
-employees] equally to both sexes where it was necessary.
-e Remove
- from
- all
- orders,
- awards,
- industrial
- agreements
- and
-statutory regulations any clauses of specific disadvantage to either
-Sex.
-e Require that policies of fringe benefits, leave entitlements,
-marriage allowances, travel opportunities, job training, increased
-responsibility, extra duties [for example, tea-making, shifting
-furniture]
- and retirement
- age, affecting
- employees
- be extended
- to all
-employees irrespective of sex.
-Promotion
-With regard
- to promotion
- opportunities
- and practices,
-The Values Party would require that
-o Employers
- consider
- all eligible
- applicants
- irrespective
- of their
- sex
-for each promotion vacancy.
-e Separate salary ceilings for men and women be eliminated.
-e All transfer
- expenses
- and assistance
- including
- housing
- and costs of
-moving family be equally available to both sexes.
-® Employers
- levy no duties
- and
- make
- no demands
- [for example,
-dress, behaviour, right to take a job] on the spouses of any of their
-employees unless they are prepared to bring them into remunerative
-employment on an ordinary part-time or casual basis [for example,
-wives of diplomats, politicians, executives].
-Making up the leeway
-It will take some time before
- new promotion
- practices
-alter the domination of men in executive positions and
-the marked absence of women from senior positions
-in all fields.
- Remedial
- measures
- are
- needed
- to help
-women who have been employed for some time to
-compensate for past lack of opportunity.
-The Values Party would recommend that employers
-eo Offer
- special in-service training
- and accelerated
- promotion
- to
-women
- who have been
- held back by past policy.
-e Endow women’s scholarships and traineeships
- in trades or
-professions where women are under-represented [a special stress on
-management training may be indicated].
-e Credit women’s past service towards benefits for which they have
-just been made eligible.
-e Appoint a special staff member to deal with women’s interests until
-the firm has eliminated discrimination.
-e Educate all existing staff on intended changes in such a way that
-acceptance and understanding is hastened.
-e Set quotas
- of women
- in all occupations
- and promotional
- levels and
-attempt to fill them [for example, by recruiting selectively in places
-where women are to be reached].
-Workers outside normal employment
-Much valuable and productive work is done for society
-by workers who receive no renumeration for their
-work. In many cases such people are therefore forced
-‘to become themselves dependent on the charity or
-generosity of a friend, relative, spouse, or sexual
-partner, despite the fact that they are healthy, sane,
-adult and working both fulltime and overtime.
-Hundreds of thousands of women are just such
-workers, caring for dependants, supervising pupils of
-the correspondence school, and doing voluntary social
-work. The
- late
- Mr N. E. Kirk said
- (26.6.73)
- “If the
-homemaker’s sister goes out to work, she gets paid at
-the same rate as men. Where is the economic justice in
-motherhood and for the homemaker?” Although jobs
-done by women in normal employment are usually
-socially lower-rated and less prestigious, the job of
-housewife
- is at the bottom
- of the pile - very low social
-status,
- no
- leave,
- no
- sickness
- benefit,
- no
-superannuation,
- and no income-related
- accident
-compensation (though the home is eight times as
-dangerous
- as a farm and six times
- as dangerous
- as a
-factory).
-Society praises the role of the mother in nurturing
-and caring for her family yet fails to give her any real
-support in performing this function and penalises her
-for the rest of her life for having done it. Even the most
-unskilled full-time paid job carried occupational
-benefits in contrast to which the housewife caring for
-dependants, on whose physical and mental resources
-enormous demands are made, is in the unique position
-of having no call on standard
- conditions
- of employment.
-The Values Party believes that whatever role a
-woman chooses it should be freely chosen on the basis
-that it will not place her at any disadvantage
- compared
-with other sections of the community.
-We endorse these principles
-e That every person irrespective of sex who does socially useful work
-should receive a fair living wage.
-All magistrates
- (bar
- one)
- and
- judges,
- almost
- all
-ministers
- of religion, business
- executives
- and
-university professors, most academics and profession-
-als, most of the armed forces and mass media, and
-most of the owners of resources in New Zealand are
-men.
-Women are for the most part absent from union
-meetings, trade councils and the annual conference of
-the Federation of Labour. They have always been
-totally absent from the National Executive of the
-Federation of Labour, and the teams representing New
-Zealand
- at the annual
- I.L.O. Conferences.
-In our parliament, 83 out of 87 seats are held by men,
-yet men are only 48.7 per cent of the population. There
-were
- no women
- in parliament
- at all until 1933
- even
-though women got the vote in 1893 and have been able
-to stand for Parliament since 1919.
- |
-The Values Party would
-e Promote measures to ensure more women applicants are
-appointed to public office, especially with regard to judicial and
-magisterial appointments.
-e Revise the Juries Act with a view to putting jury service for women
-on a par with jury service for men.
-e Encourage all clubs and other organisations to provide access to
-their facilities to women on the same basis as for men, where sex does
-not justify exclusion.
-» Recommend that all political parties give special encouragement
-and special assistance to female candidates to help them overcome
-difficulties and prejudices and that they select all candidates on merit
-regardless of sex.
-e Urge the Federation of Labour and all Trade Unions to promote
-actively the full participation of women at all levels of trade union
-activity.
-e Encourage the full participation of women
- at all levels
- of
-decision-making in all sectors of society.
+
+* prevent the more blatant forms of discrimination against women in New Zealand society;
+* create a cultural environment where the equal status of women and of traditional women’s values can be achieved.
+
+In addition to the provisions in policies given above, general legislation is needed to bring New Zealand law into conformity with international instruments relating to the status of women.
+
+Much of our law has developed from the basis of Victorian male attitudes which were paternalistic and protective towards women, relegating them to a position of dependence. Such attitudes persist among members of the public and cannot be changed overnight but there is no reason for any delay in altering all New Zealand laws developed on such an unjustifiable basis. Such alterations will promote the changes needed in attitudes throughout our society, especially if complemented by educative action.
+
+!!!! #### The Values Party would
+!!!! * Examine, alter and add to all existing legislation with a view to detecting and eliminating all legal disabilities of, and discrimination against, persons on the basis of sex, marital status, or sexual preference, and prescribe sanctions against discriminatory practices.
+!!!! Machinery is needed to enforce all such new legislation,
+!!!! * Set up an office similar to that of the ombudsman to examine and remedy discrimination against persons on the basis of sex, marital status, or sexual preference, in particular infringements of the Equal Pay Act. Holders of office must have the power to prosecute and the complainant should be able to approach  them directly. Another function of this office would be to inform and educate the public on the implications of equality for women.
+!!!! * Recommend that all Government departments examine practices which discriminate against persons on the basis of their sex, marital status, or sexual preference, or which treat women in a paternalistic manner.
+!!!! * Support legislative amendments to the effect that in cases of rape, the woman's sexual experience, apart from that with the person being prosecuted, should not be admissible evidence - the complainant be referred to only as Ms X; all names be suppressed until a conviction is entered.
+!!!! * Make provision in the Superannuation Act for women who do not work for money [such as farmers’ wives].
+!!!! * Extend the Joint Family Homes Act to cover farm houses. 
+
+### Power
+
+It is a fact that power in most of the forms that matter in our society - in government, in commerce, in religion, in community status - plus the power of wealth, weapons, and the press is largely in men’s hands in New Zealand.
+
+!!!! #### Values Would
+!!!! * Ensure that more part-time tertiary courses were available and that existing courses [for example at Massey] were better publicised.
+!!!! * Provide more opportunity for parents returning to the work force to train for a different occupation or to familiarise themselves with their previous occupation.
+!!!! * Establish more courses to give greater confidence to older parents re-entering the workforce at technical institutes in the main cities.
+!!!! * Encourage firms to retrain people in technical skills outside those traditionally accepted as suitable for their sex.
+!!!! * Establish a permanent system of education through television for the benefit of home-bound spouses.
+### Employment of Women
+
+The Values Party szes no reason in terms of inherent qualities why a woman should not be able to undertake any job for which she is qualified and to be successful in that job. Yet historically women have been employed in large numbers only when there is a shortage of male workers or where it is cheaper to pay women than men.
+New Zealand has a shortage of skilled labour which it prefers to relieve by means of immigration. The Values Party would however look to the vast segments of our indigenous population which are employed below their potential (and sometimes below their skill, particularly when re-entering the workforce). Most of these are women.
+
+Women in employment are generally unskilled or semi-skilled, doing jobs with minimal responsibility and jobs which are mechanical, repetitive and boring (“that men couldn't be expected to do’). The number of occupations effectively open to women is limited - men dominate factory, transport and agricultural jobs while women hold by far the greatest proportion of clerical and service jobs.
+
+!!!! #### The Values Party would
+!!!! * Eliminate separate labour markets for men and women.
+!!!! * Prohibit the advertising of situations vacant in which sex is specified even though irrelevant to the position. Recommend all employers to:
+!!!! * Place advertisements where both men and women will read them.
+!!!! * Depict both men and women on the job in career literature.
+!!!! * Reach both men and women on recruiting trips.
+!!!! * Standardise interview practices for men and women applicants, so that both are asked the same questions.
+
+#### Equal pay
+
+Over the last three censuses the annual median income for female workers has been only half the level for males. This will be somewhat improved when the Equal Pay Act is fully implemented in 1977. However, although equal pay has been in force for years in the Public Service, women still occupy lower rather than higher grades. Unless New Zealand is careful its equal pay legislation could fail by default as has happened elsewhere, especially with regard to the effects of fringe benefits (such as gratuities, low-interest home loans, medical and pension schemes) and job reclassification on real earning differentials.
+
+The issue of equal pay is neatly side-stepped also in fields where certain positions are always filled by women.
+
+The Values Party believes that in determining fair rates of pay in occupations filled mainly by women, notional male rates must be based on what employers would have to pay male employees recruited from the labour pool in any given region, and based also on job evaluations which have been carried out scientifically rather than by rule of thumb.
+
+!!!! #### The Values Party would establish a public relations campaign through the Labour Department to
+!!!! * Allay the fears of both employers and employees regarding the implications of the Equal Pay Act.
+!!!! * Re-educate employers with outdated prejudiced attitudes regarding the employment of women {for example “that men are more committed to their work than women”).
+!!!! * Make employers more aware of the advantages to themselves of employing more women [for example, publicise the low female turnover rate compared with that for males employed in freezing works, the superior planting rates of women forestry workers, the dexterity of women in occupations such as carpet-weaving]. 
+!!!! * Seek trade union understanding and support for changes in the pattern of women’s employment.
+
+### Conditions of work
+
+Fair pay must be accompanied by fair conditions. The reason some occupations, previously filled exclusively by men, are now accepting women, is often because the poor conditions _are not attracting enough male applicants. In order to improve working conditions for both men and women.
+
+!!!! #### The Values Party would
+!!!! * Apply protective legislation [for example regarding hours of work, toilet and resting facilities, heavy lifting which might injure employees] equally to both sexes where it was necessary.
+!!!! * Remove from all orders, awards, industrial agreements and statutory regulations any clauses of specific disadvantage to either Sex.
+!!!! * Require that policies of fringe benefits, leave entitlements, marriage allowances, travel opportunities, job training, increased responsibility, extra duties [for example, tea-making, shifting furniture] and retirement age, affecting employees be extended to all employees irrespective of sex.
+
+#### Promotion
+
+With regard to promotion opportunities and practices,
+
+!!!! #### The Values Party would require that
+!!!! * Employers consider all eligible applicants irrespective of their sex for each promotion vacancy.
+!!!! * Separate salary ceilings for men and women be eliminated. 
+!!!! * All transfer expenses and assistance including housing and costs of moving family be equally available to both sexes. 
+!!!! * Employers levy no duties and make no demands [for example, dress, behaviour, right to take a job] on the spouses of any of their employees unless they are prepared to bring them into remunerative employment on an ordinary part-time or casual basis [for example, wives of diplomats, politicians, executives].
+
+### Making up the leeway
+It will take some time before new promotion practices alter the domination of men in executive positions and the marked absence of women from senior positions in all fields. Remedial measures are needed to help women who have been employed for some time to compensate for past lack of opportunity.
+
+!!!! #### The Values Party would recommend that employers
+!!!! * Offer special in-service training and accelerated promotion to women who have been held back by past policy.
+!!!! * Endow women’s scholarships and traineeships in trades or professions where women are under-represented [a special stress on management training may be indicated].
+!!!! * Credit women’s past service towards benefits for which they have just been made eligible.
+!!!! * Appoint a special staff member to deal with women’s interests until the firm has eliminated discrimination.
+!!!! * Educate all existing staff on intended changes in such a way that acceptance and understanding is hastened.
+!!!! * Set quotas of women in all occupations and promotional levels and attempt to fill them [for example, by recruiting selectively in places where women are to be reached].
+
+### Workers outside normal employment
+Much valuable and productive work is done for society by workers who receive no renumeration for their work. In many cases such people are therefore forced ‘to become themselves dependent on the charity or generosity of a friend, relative, spouse, or sexual partner, despite the fact that they are healthy, sane, adult and working both fulltime and overtime. Hundreds of thousands of women are just such workers, caring for dependants, supervising pupils of the correspondence school, and doing voluntary social work. The late Mr N. E. Kirk said (26.6.73)
+“If the homemaker’s sister goes out to work, she gets paid at the same rate as men. Where is the economic justice in motherhood and for the homemaker?”
+
+Although jobs done by women in normal employment are usually socially lower-rated and less prestigious, the job of housewife is at the bottom of the pile - very low social status, no leave, no sickness benefit, no superannuation, and no income-related accident compensation (though the home is eight times as dangerous as a farm and six times as dangerous as a factory).
+
+Society praises the role of the mother in nurturing and caring for her family yet fails to give her any real support in performing this function and penalises her for the rest of her life for having done it. Even the most unskilled full-time paid job carried occupational benefits in contrast to which the housewife caring for dependants, on whose physical and mental resources enormous demands are made, is in the unique position of having no call on standard conditions of employment.
+
+The Values Party believes that whatever role a woman chooses it should be freely chosen on the basis that it will not place her at any disadvantage compared with other sections of the community.
+
+!!!! #### We endorse these principles
+!!!! * That every person irrespective of sex who does socially useful work should receive a fair living wage.
+
+All magistrates (bar one) and judges, almost all ministers of religion, business executives and university professors, most academics and profession- als, most of the armed forces and mass media, and most of the owners of resources in New Zealand are men.
+
+Women are for the most part absent from union meetings, trade councils and the annual conference of the Federation of Labour. They have always been totally absent from the National Executive of the Federation of Labour, and the teams representing New Zealand at the annual I.L.O. Conferences.
+
+In our parliament, 83 out of 87 seats are held by men, yet men are only 48.7 per cent of the population. There were no women in parliament at all until 1933 even though women got the vote in 1893 and have been able to stand for Parliament since 1919.
+
+!!!! #### The Values Party would
+!!!! * Promote measures to ensure more women applicants are appointed to public office, especially with regard to judicial and magisterial appointments.
+!!!! * Revise the Juries Act with a view to putting jury service for women on a par with jury service for men. e Encourage all clubs and other organisations to provide access to their facilities to women on the same basis as for men, where sex does not justify exclusion.
+!!!! * Recommend that all political parties give special encouragement and special assistance to female candidates to help them overcome difficulties and prejudices and that they select all candidates on merit regardless of sex.
+!!!! * Urge the Federation of Labour and all Trade Unions to promote actively the full participation of women at all levels of trade union activity.
+!!!! * Encourage the full participation of women at all levels of decision-making in all sectors of society.
