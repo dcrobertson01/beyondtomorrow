@@ -44,110 +44,33 @@ People must be given a greater say in the running and organising of their work. 
 !!!! * Favours the immediate initiation of a study of forms of industrial democracy currently in operation in the world's industrial nations [for example West Germany and Yugoslavia] with a view to early introduction of full participation of wage and salary workers in decision making at all levels of industry.
 !!!! * Would give immediate support to the freezing industry to institute job enrichment and worker participation programmes. Urgency would be given to the introduction of full industrial democracy in this industry.
 
-As well as direct moves towards industrial democracy,
-the Values Party believes that the development of co-
-operative enterprises (see Economics) would lead to a
-much greater degree of democracy in the work place.
-Critics who say that New Zealand workers do not
-seem interested in sharing in the responsibilities of
-management and workshop supervision ignore the fact
-that a large part of the work force has been trained to
-expect,
- and adapt
- to, an authoritarian
- work
- environ-
-ment, to regard their employers as simply providers of
-wages to whom ‘loyalty’ - if any, is due only until the
-whistle blows.
-Unions
-The Values Party
-e Recognises the need for unions to protect the interests of their
-members under the present social and economic system and
-therefore does not in any way associate itself with the present
-campaign of denigration of unions.
-e Sees present industrial conditions requiring the retention of
-preference provisions in existing industrial laws.
-o Believes that unions can play an important role in the transition to,
-and the success
- of, a co-operative
- economy.
-Employment Opportunities, Redundancy and Retraining
-The Values Party realises that its policies to encourage
-a movement
- towards
- a co-operative
- economy
- will have
-an effect on employment
- patterns
- and opportunities.
-Values Party would develop
-e Government, community and individual enterprise retraining
-schemes.
-e Alternative employment schemes which would endeavour to use
-existing skills in more socially and/or environmentally sound
-enterprises.
-e Shorter working hours complemented by adult education in a wide
-sense.
-e Encouragement of shared employment.
-e Payment for homeworkers to ensure that no homeworker is forced
-by hardship to seek outside employment.
-As the transition towards a stable economy progresses
-more attention
- will have to be paid to helping
- people
-adapt to the tasks of the new economy, especially
-where
- old jobs are being
- phased
- out because
- of their
-incompatibility
- with community
- objectives.
- Elected
-bodies at all levels, as well as individual enterprises,
-will become involved in retraining
- and redeploying
-some members of the workforce (for example into the
-field of recycling).
-Health Hazards
-The problem of industrial relations is compounded by
-the disturbing situation regarding occupational safety
-and
- health.
- In New Zealand
- there
- are
- some
- 65,000
-industrial accidents a year, about 75 of which are fatal
-and some 1,000 of which result in permanent disability.
-Chemicals and other pollutants are causing health
-problems, mechanisation and automation are causing
-mental health problems and often the growing
-complexity of tasks faced by managerial and technical
-staff
- is causing
- exhaustion
- and
- breakdown.
- All this
-adds to the picture of modern industry as an extremely
-unhealthy activity.
-The Values Party Believes
-e That industrial education, legislation and incentive measures
-should be investigated and implemented as part of an urgent
-programme to overcome health hazards.
-The problems
- of industrial
- relations
- will not be solved
-without the progressive introduction of cooperative
-community control of enterprises,
- or government,
-community, union, employer and individual efforts to
-increase
- job satisfaction
- and make industrial
+As well as direct moves towards industrial democracy, the Values Party believes that the development of co- operative enterprises (see Economics) would lead to a much greater degree of democracy in the work place. Critics who say that New Zealand workers do not seem interested in sharing in the responsibilities of management and workshop supervision ignore the fact that a large part of the work force has been trained to expect, and adapt to, an authoritarian work environment, to regard their employers as simply providers of wages to whom ‘loyalty’ - if any, is due only until the whistle blows.
+
+### Unions
+
+!!!! #### The Values Party
+!!!! * Recognises the need for unions to protect the interests of their members under the present social and economic system and therefore does not in any way associate itself with the present campaign of denigration of unions.
+!!!! * Sees present industrial conditions requiring the retention of preference provisions in existing industrial laws.
+!!!! * Believes that unions can play an important role in the transition to, and the success of, a co-operative economy.
+
+### Employment Opportunities, Redundancy and Retraining
+The Values Party realises that its policies to encourage a movement towards a co-operative economy will have an effect on employment patterns and opportunities.
+
+!!!! #### Values Party would develop
+!!!! * Government, community and individual enterprise retraining schemes.
+!!!! * Alternative employment schemes which would endeavour to use existing skills in more socially and/or environmentally sound enterprises.
+!!!! * Shorter working hours complemented by adult education in a wide sense.
+!!!! * Encouragement of shared employment.
+!!!! * Payment for homeworkers to ensure that no homeworker is forced by hardship to seek outside employment.
+
+As the transition towards a stable economy progresses more attention will have to be paid to helping people adapt to the tasks of the new economy, especially where old jobs are being phased out because of their incompatibility with community objectives. Elected bodies at all levels, as well as individual enterprises, will become involved in retraining and redeploying some members of the workforce (for example into the field of recycling).
+
+### Health Hazards
+The problem of industrial relations is compounded by the disturbing situation regarding occupational safety and health. In New Zealand there are some 65,000 industrial accidents a year, about 75 of which are fatal and some 1,000 of which result in permanent disability.
+
+Chemicals and other pollutants are causing health problems, mechanisation and automation are causing mental health problems and often the growing complexity of tasks faced by managerial and technical staff is causing exhaustion and breakdown. All this adds to the picture of modern industry as an extremely unhealthy activity.
+
+!!!! #### The Values Party Believes
+!!!! * That industrial education, legislation and incentive measures should be investigated and implemented as part of an urgent programme to overcome health hazards. 
+
+The problems of industrial relations will not be solved without the progressive introduction of cooperative community control of enterprises, or government, community, union, employer and individual efforts to increase job satisfaction and make industrial democracy effective.

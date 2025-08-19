@@ -44,8 +44,7 @@ No-one will ever be able to prove which group is right. The ethical consideratio
 !!!! #### The Values Party believes that:
 !!!! - those whose conscience forbids them to have anything to do with abortion should not be required to do so;
 !!!! - the decision on whether or not a woman should obtain an obortion should be made by her and her doctor, since each woman's beliefs, medical history and situation are unique.
-!!!! - where paternity is established and there is a bond between the couple concerned, the man could well be included in the process of deciding about abortion. However if the couples’ preferences conflict, the woman's choice should prevail. After all, current adoption practice entails the consent of the mother
-only because it is the mother who literally “gives’ birth.
+!!!! - where paternity is established and there is a bond between the couple concerned, the man could well be included in the process of deciding about abortion. However if the couples’ preferences conflict, the woman's choice should prevail. After all, current adoption practice entails the consent of the mother only because it is the mother who literally “gives’ birth.
 
 The Values Party endorses the statement in its 1972 manifesto (pp10 and 56) that: “Our party's stand on abortion is not based on the desire to reduce population growth. We believe that abortion is the least desirable form of birth control and should not be regarded as a substitute for contraception.” It would repeal all existing legislation on abortion (including Dr Wall's Hospital Amendment Act) because there is no need for legislators to single out one form of medical treatment for special legislation. Other laws regarding medical practices provide adequate safeguards and ensure that every abortion would be carried out by a registered medical practitioner in an approved manner.
 
@@ -133,8 +132,7 @@ We believe that the objective in dealing with those addicted to drugs should be 
 !!!! - Ensure that warrant of fitness examinations are carried out on all firearms at regular intervals.
 !!!! - Grant an amnesty to anyone surrendering an unregistered firearm at any time.
 !!!! - Ensure that proficiency tests be carried out at specified intervals for all firearm licence holders.
-!!!! - Make licences to operate firearms
- more difficult to obtain.
+!!!! - Make licences to operate firearms more difficult to obtain.
 
 ### Divorce Law Reform
 !!!! - Make irreconcilable breakdown of marriage the only grounds for divorce.
