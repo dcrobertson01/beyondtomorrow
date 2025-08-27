@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-Community, Family, Children
 “In the older forms of social organisation, it was just
 this inescapable fact of close interdependence
  that
