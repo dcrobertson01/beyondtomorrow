@@ -107,10 +107,10 @@ The evidence seems to suggest that in locking the criminal away and treating him
 !!!! ### The Values Party would
 !!!! * Make an immediate start on the gradual phasing out of most New Zealand prisons and their replacement by a large number of small “open” suburban hostels for all except prisoners requiring treatment for psychiatric disorders.
 !!!! * Ensure that every prisoner retained the right to vote at national elections.
-!!!! * Phase out imprisonment for most crimes against property, and replace it with community service, the offender being required to make good the loss or damage wherever appropriate.
-
-While closed prisons are in existence the following measures should be implemented -
-
+!!!! * Phase out imprisonment for most crimes against property, and replace it with community service, the offender being required to make good the loss or damage wherever appropriate.    
+!!!!
+!!!! While closed prisons are in existence the following measures should be implemented -
+!!!!
 !!!! * The provision of adequate and suitable work for all inmates.
 !!!! * Award wages in order to provide an incentive work, and fo help inmates maintain their dependants and save up sums for use on release.
 !!!! * Greater humanising influences introduced to prisons, such as homely furniture and decorations, grassed exercise areas, regular small liquor rations, variety in clothing, greater flexibility of prison timetable, and a prison cinema.

@@ -5,23 +5,9 @@ taxonomy:
         - docs
 ---
 
-“In the older forms of social organisation, it was just
-this inescapable fact of close interdependence
- that
-held the family and the community together. In village
-or town, the lives of the inhabitants were dominated by
-local events. Narrow though their lives might appear by
-our standards they had, young and old, their place in
-the natural order of things, a settled relationship to one
-another guided by a network of custom and mutual
-obligation.
- Inevitably
- then, they were all of them
- part of
-the prior and absorbing concern of the community they
-dwelt in.”
-E. J. Mishan, “Growth: The Price We Pay’,
-Staples Press 1969.
+“In the older forms of social organisation, it was just this inescapable fact of close interdependence that held the family and the community together. In village or town, the lives of the inhabitants were dominated by local events. Narrow though their lives might appear by our standards they had, young and old, their place in the natural order of things, a settled relationship to one another guided by a network of custom and mutual obligation. Inevitably then, they were all of them part of the prior and absorbing concern of the community they dwelt in.”
+E. J. Mishan, “Growth: The Price We Pay’, Staples Press 1969.
+
 The simple fact is that in our quest for economic
 security we have paid too much attention to satisfying
 our material needs and not enough to creating a
