@@ -26,3 +26,8 @@ Rendered as
 > “A true revolution of values will soon look uneasily on the glaring contrast of poverty and wealth . .. and say this is not just.”
 > <span class="citation">[Martin Luther King] [mlk]</span>
 
+Don't forget to add the link information at the bottom or the page:
+
+    [mlk]: /references/martin-luther-king "Martin Luther King"
+
+[mlk]: /references/martin-luther-king "Martin Luther King"
