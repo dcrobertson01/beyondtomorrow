@@ -18,8 +18,8 @@ Quotes should be formatted as \> markdown quotes. Citations as follows:
             
 A complete quote, with a link to the author.
 
-			> “A true revolution of values will soon look uneasily on the glaring contrast of poverty and wealth . .. and say this is not just.”
-			> <span class="citation">[Martin Luther King] [mlk]</span>
+    > “A true revolution of values will soon look uneasily on the glaring contrast of poverty and wealth . .. and say this is not just.”
+    > <span class="citation">[Martin Luther King] [mlk]</span>
             
 Rendered as 
 
