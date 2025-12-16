@@ -105,9 +105,8 @@ Tourism is justifiable on the grounds of its promotion of intercultural awarenes
 The Values Party believes that vigorous promotion of New Zealand as a tourist haven would tend to worsen some of the more detrimental effects of the trade; the construction of luxury hotels emphasising wealth division and elitism, the prostitution of the Maori culture, the despoliation of scenic areas by chintzy commercialisation, and the creation of artificial atmospheres in natural settings.
 
 !!!! #### The Values Party believes that:
-!!!! * We should stabilise at present levels, through the use of inter- national aircraft landing rights, the number of overseas tourists visiting New Zealand.
-!!!! * The tourist industry should cease to regard New Zealand as having a tourist “potential”.
-We should end expenditure on overseas advertising of New Zealand as a tourist resort.
+!!!! * We should stabilise at present levels, through the use of inter-national aircraft landing rights, the number of overseas tourists visiting New Zealand.
+!!!! * The tourist industry should cease to regard New Zealand as having a tourist “potential”. We should end expenditure on overseas advertising of New Zealand as a tourist resort.
 !!!! * All visitors to New Zealand should be warned on arrival that “tipping” for service is prohibited.
 !!!! * All major tourist facilities should be New Zealand-owned.
 !!!! * The provision of cheaper holiday accommodation should be encouraged.

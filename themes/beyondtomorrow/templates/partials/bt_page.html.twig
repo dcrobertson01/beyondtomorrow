@@ -1,0 +1,13 @@
+<div id="body-inner">
+    <h1>{{ page.title }}</h1>
+
+		{% include 'components/page-toc.html.twig' %}
+		{% include 'components/page-pdf.html.twig' %}
+
+    <p>
+    	{{ page.content|raw }}
+    </p>
+    <p>
+        {% include 'partials/newsletter_subscribe_form.html.twig' %}
+    </p>
+</div>

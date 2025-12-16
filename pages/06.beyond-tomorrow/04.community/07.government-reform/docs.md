@@ -4,283 +4,65 @@ taxonomy:
     category:
         - docs
 ---
-Government Reform
-The basic question of government is “Who makes what
-decisions how?” The Values Party realises that its
-answers to these questions will mean major changes to
-our present system of government.
-The pace and direction of political, economic, social
-and cultural change has meant that our present system
-is inadequate. If we wish to attain justice and retain
-democracy we must do more than fiddle with an
-inadequate
- system. Values seeks to head off the sort of
-government
- developing
- in New Zealand - big and
-centralised, with too much power and too many
-functions, requiring a large, distant and faceless
-bureaucracy.
- :
-We are committed
- to the development
- of a
-decentralised
- participatory
- democracy
- within a just,
-co-operative
- society. Only a strong sense
- of community
-can counter the massness and alienation of western
-society. And this feeling of togetherness
- can be
-promoted to some extent by doing in an intelligent
-manner what many radicals and anarchists are calling
-for - “Power to the People”.
-Decentralisation
-Values’
- policies
- consistently
- call
- for
- more
-responsibility, more power and more autonomy for
-regional community
- levels of government,
- and
-redefinition of the role of central government and head
-office.
-Our long-term objective is a form of government in
-which the responsibility and authority for social
-services and amenities rests as closely as possible with
-the people using them. This would apply particularly in
-health, education, welfare, housing, land use, and as far
-as possible throughout the economy.
-Decentralisation
- does not mean simply making
-Napier-Hastings for example into a mini-Wellington for
-the Hawkes
- Bay region. It means
- the development
- of
-social services in Waipukurau, Dannevirke, Porang-
-ahau and Pongoroa too. Nor does decentralisation
-mean that all power and functions
- are taken away from
-the centre. It means rather that the centre is freed to
-perform its proper roles of co-ordination and commun-
-ication, maintaining balance and justice, legislating
-minimum standards, safeguarding civil rights, and
-researching and developing innovations. International
-relations, and national transport are examples of
-government functions that would not be decentral-
-ised.
-We see such decentralisation
- as vital to the
-development of true communities in which the social
-needs of kinship and co-operation are fostered by the
-regular involvement
- of citizens in deciding the
-conditions
- that affect their
- lives.
-We see such decentralisation as vital to curing the
-diseases threatening the health of our democracy - ali-
-enation, apathy, sectional greed and competitive
-84
-individualism. These conditions flourish when govern-
-ment is distant and unresponsive; then, government
-itself, which is really “Us”, becomes “They”. In the
-face-to-face government of decentralisation,
- enlight-
-ened self-interest alone advises that it is unwise to
-exploit today the people who can make the decisions
-governing your
- life tomorrow
- - your
- neighbours
- and
-workmates.
-Effective decentralisation is impossible without an
-independent and sufficient source of revenue for each
-level of government.
- More and more loans from central
-government can only put local government
- “in hock” to
-central government and tie it to central conditions. The
-best method of financing local government will lie in
-some kind of regular payment for the community
-services provided by local government and in return
-for community-generated
- values enjoyed by citizens.
-This requires no radical change - rates based on land
-values
- provide
- such a source
- now. But rating
- has its
-disadvantages
- too.
-The Values Party is currently investigating
- various
-alternatives for financing local government.
-The Values Party would
-e Endorse
- the
- general
- objectives
- of the Local Government
- Act. We
-would however amend it to:
-- give autonomy and greater responsibility to the proposed
-community councils;
-- acknowledge the role of neighbourhood councils or local pro-
-gressive associations in government. There might be several of these
-within the territory of a community council;
-- establish statutory procedures for providing local government with
-an independent and sufficient source of revenue.
-o Amend
- the
- procedures
- of the Local Government
- Commission
- so
-that it is able to hear submissions from individuals and community
-groups
- as well as local authorities.
- We would accelerate
- the develop-
-ment of regional and community levels of government.
-e Bring harbour boards under regional government control and town
-planning legislation.
-Participatory Democracy
-It is decades since New Zealand had a majority
-government. Even in 1972, 52 per cent of the voters
-did not vote for Labour. Fewer than half a dozen MPs
-got the support of more than half their electorate.
-Values believes that our present political system is
-fundamentally undemocratic and unjust. It points to
-evidence in the fact that most MPs are male, over 40,
-and from the professions, business, farming, or union
-administration.
- In all these
- respects
- MPs
- are
- not
-representative of the population. Recent free votes in
-Parliament indicate the extent to which Parliament
-opinion is lagging behind public opinion. A few people
-in a few marginal seats determine who will be the next
-government.
-In a truly democratic society any citizen should feel
-that he or she can influence
- government.
- How many of
-us feel this in 19757 We get a solitary vote among
-thousands every three years and are then cast into the
-role of spectators of political games.
-Obviously these conditions will not change overnight
-and cannot be changed except through a strong and
-active movement of people “at the grassroots level”.
-Such a movement has emerged in New Zealand in
-recent years. It is still scattered, largely inarticulate,
-not very well organised,
- nor very confident
- of itself. But
-it is there. Manapouri, Aro Street, Otara are places
-where some of its battles have been won. It is a
-movement towards participatory democracy, and the
-Values Party is only one part of it.
-In its role as a social action movement, the Values
-Party seeks to demonstrate that the ordinary citizen is
-not powerless. He or she can join with others and make
-their voices heard and their ideas considered. The
-Values Party does not need to become government to
-enact
- its policies.
- Many can be enacted
- in their
- daily
-lives by members.
-Greater openness of government is a priority of the
-Values Party, and the encouragement of participatory
-democracy an important feature of its aspect as a social
-action movement. At present
- most government
-decisions are made behind closed doors. Items of
-information on matters of vital public interest - for
-example, nuclear power, justification for price rises,
-and the arguments being used by pressure groups and
-public servants in their relations with the political
-executive - are kept away from the public. Decisions
-made in cabinet and caucus at central government
-level, or committee
- and caucus at local government
-level, are presented
- as faits accompli. Only with the
-greatest difficulty can a dissenting public reverse these
-decisions.
-The Values Party
-eo Endorses
- the intentions behind the Educational Development
-Conference
- and would promote similar conferences, seeking the
-views of the
- public,
- when
- there
- are major
- policy
- changes
-contemplated
- [for example, in health and local government].
-e Would examine present legislation and regulations
- and amend
-them so that planning decisions at all levels of government
- were made
-only after a process of consultation
- with those affected, during which
-process the participation of interested citizens was actively sought.
-e Sees the Crown as distinct from the policies of central government
-and would amend
- the Town and Country
- Planning
- and Public Works
-Acts so that central government and its agencies were subject to the
-normal planning procedures and ordinances of central government.
-o Give members of the public access to all government records as of
-right. A departmental head could deny access to certain types of
-information but such decisions would be open to appeal to the
-Ombudsman.
-e Would increase use of referenda, questionnaires and pilot schemes.
-es Make legal aid available to individuals and community groups
-taking cases to appeal before Town and Country Planning Appeal
-Boards.
-Parliamentary Reform
-In 1972 we stated ‘‘the Values Party believes that
-there is an urgent need for reform of Parliament in
-order to make it a more effective and relevant body”.
-Many of the policies we stated then are contained in
-the 1975 Electoral Amendment Act.
-The Values Party calls for
-eo A 15-year
- maximum
- term
- for all MPs.
-e Establishment
- of a parliamentary forum convened by the
-Opposition, for the public to air grievances and suggest alternative
-policies.
-e Increased youth representation on decision-making bodies.
-e In-service training for MPs.
-eo Areview procedure for legislation whereby each new bill contains a
-statement of its objectives, its estimated costs and benefits, and
-specifies a time, not more than 20 years, during which it must be
-reviewed.
-e Liberalising of standing orders to allow private members’ bills that
-propose increases in expenditure.
+The basic question of government is “Who makes what decisions how?” The Values Party realises that its answers to these questions will mean major changes to our present system of government. 
+
+The pace and direction of political, economic, social and cultural change has meant that our present system is inadequate. If we wish to attain justice and retain democracy we must do more than fiddle with an inadequate system. Values seeks to head off the sort of government developing in New Zealand - big and centralised, with too much power and too many functions, requiring a large, distant and faceless bureaucracy.
+
+We are committed to the development of a decentralised participatory democracy within a just, co-operative society. Only a strong sense of community can counter the massness and alienation of western society. And this feeling of togetherness can be promoted to some extent by doing in an intelligent manner what many radicals and anarchists are calling for - “Power to the People”.
+
+####Decentralisation
+
+Values’ policies consistently call for more responsibility, more power and more autonomy for regional community levels of government, and redefinition of the role of central government and head office.
+
+Our long-term objective is a form of government in which the responsibility and authority for social services and amenities rests as closely as possible with the people using them. This would apply particularly in health, education, welfare, housing, land use, and as far as possible throughout the economy. 
+
+Decentralisation does not mean simply making Napier-Hastings for example into a mini-Wellington for the Hawkes Bay region. It means the development of social services in Waipukurau, Dannevirke, Porang- ahau and Pongoroa too. Nor does decentralisation mean that all power and functions are taken away from the centre. It means rather that the centre is freed to perform its proper roles of co-ordination and commun- ication, maintaining balance and justice, legislating minimum standards, safeguarding civil rights, and researching and developing innovations. International relations, and national transport are examples of government functions that would not be decentral- ised.
+
+We see such decentralisation as vital to the development of true communities in which the social needs of kinship and co-operation are fostered by the regular involvement of citizens in deciding the conditions that affect their lives.
+
+We see such decentralisation as vital to curing the diseases threatening the health of our democracy - ali- enation, apathy, sectional greed and competitive individualism. These conditions flourish when govern- ment is distant and unresponsive; then, government itself, which is really “Us”, becomes “They”. In the face-to-face government of decentralisation, enlight- ened self-interest alone advises that it is unwise to exploit today the people who can make the decisions governing your life tomorrow - your neighbours and workmates.
+
+Effective decentralisation is impossible without an independent and sufficient source of revenue for each level of government. More and more loans from central government can only put local government “in hock” to central government and tie it to central conditions. The best method of financing local government will lie in some kind of regular payment for the community services provided by local government and in return for community-generated values enjoyed by citizens. This requires no radical change - rates based on land values provide such a source now. But rating has its disadvantages too.
+
+The Values Party is currently investigating various alternatives for financing local government.
+
+!!!! #### The Values Party would
+!!!! * Endorse the general objectives of the Local Government Act. We would however amend it to:
+!!!! * give autonomy and greater responsibility to the proposed community councils;
+!!!! * acknowledge the role of neighbourhood councils or local pro- gressive associations in government. There might be several of these within the territory of a community council;
+!!!! * establish statutory procedures for providing local government with an independent and sufficient source of revenue.
+!!!! * Amend the procedures of the Local Government Commission so that it is able to hear submissions from individuals and community groups as well as local authorities. We would accelerate the development of regional and community levels of government.
+!!!! * Bring harbour boards under regional government control and town planning legislation.
+
+### Participatory Democracy
+It is decades since New Zealand had a majority government. Even in 1972, 52 per cent of the voters did not vote for Labour. Fewer than half a dozen MPs got the support of more than half their electorate. 
+
+Values believes that our present political system is fundamentally undemocratic and unjust. It points to evidence in the fact that most MPs are male, over 40, and from the professions, business, farming, or union administration. In all these respects MPs are not representative of the population. Recent free votes in Parliament indicate the extent to which Parliament opinion is lagging behind public opinion. A few people in a few marginal seats determine who will be the next government.
+
+In a truly democratic society any citizen should feel that he or she can influence government. How many of us feel this in 1975? We get a solitary vote among thousands every three years and are then cast into the role of spectators of political games.
+
+Obviously these conditions will not change overnight and cannot be changed except through a strong and active movement of people “at the grassroots level”. Such a movement has emerged in New Zealand in recent years. It is still scattered, largely inarticulate, not very well organised, nor very confident of itself. But it is there. Manapouri, Aro Street, Otara are places where some of its battles have been won. It is a movement towards participatory democracy, and the Values Party is only one part of it. In its role as a social action movement, the Values Party seeks to demonstrate that the ordinary citizen is not powerless. He or she can join with others and make their voices heard and their ideas considered. The Values Party does not need to become government to enact its policies. Many can be enacted in their daily lives by members.
+
+Greater openness of government is a priority of the Values Party, and the encouragement of participatory democracy an important feature of its aspect as a social action movement. At present most government decisions are made behind closed doors. Items of information on matters of vital public interest - for example, nuclear power, justification for price rises, and the arguments being used by pressure groups and public servants in their relations with the political executive - are kept away from the public. Decisions made in cabinet and caucus at central government level, or committee and caucus at local government level, are presented as faits accompli. Only with the greatest difficulty can a dissenting public reverse these decisions.
+
+!!!! #### The Values Party
+!!!! * Endorses the intentions behind the Educational Development Conference and would promote similar conferences, seeking the views of the public, when there are major policy changes contemplated [for example, in health and local government].
+!!!! * Would examine present legislation and regulations and amend them so that planning decisions at all levels of government were made only after a process of consultation with those affected, during which process the participation of interested citizens was actively sought. 
+!!!! * Sees the Crown as distinct from the policies of central government and would amend the Town and Country Planning and Public Works Acts so that central government and its agencies were subject to the normal planning procedures and ordinances of central government.
+!!!! * Give members of the public access to all government records as of right. A departmental head could deny access to certain types of information but such decisions would be open to appeal to the Ombudsman.
+!!!! * Would increase use of referenda, questionnaires and pilot schemes. 
+!!!! * Make legal aid available to individuals and community groups taking cases to appeal before Town and Country Planning Appeal Boards. 
+
+### Parliamentary Reform
+In 1972 we stated ‘‘the Values Party believes that there is an urgent need for reform of Parliament in order to make it a more effective and relevant body”. Many of the policies we stated then are contained in the 1975 Electoral Amendment Act.
+!!!! #### The Values Party calls for
+!!!! * A 15-year maximum term for all MPs.
+!!!! * Establishment of a parliamentary forum convened by the Opposition, for the public to air grievances and suggest alternative policies.
+!!!! * Increased youth representation on decision-making bodies.
+!!!! * In-service training for MPs.
+!!!! * Areview procedure for legislation whereby each new bill contains a statement of its objectives, its estimated costs and benefits, and specifies a time, not more than 20 years, during which it must be reviewed.
+!!!! * Liberalising of standing orders to allow private members’ bills that propose increases in expenditure.
+
 New Zealanders
  expect
  more than
