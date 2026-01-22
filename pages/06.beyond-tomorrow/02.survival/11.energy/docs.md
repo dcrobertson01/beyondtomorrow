@@ -15,13 +15,12 @@ The use of fossil fuels (such as oil and coal) for energy production cannot be c
 
 Values Party policies aimed at stabilising population and developing a stable-state economy are necessary pre-requisites for the stabilisation of energy consumption, but must be supplemented by detailed conservation policies.
 
-!!!! The Values Party would
+!!!! #### The Values Party would
 !!!! * Expand the Ministry of Energy Resources to co-ordinate the use of all energy sources and to bring down a comprehensive energy policy aimed at: preventing further increase in per capita energy con- sumption, increasing the efficiency of energy use, minimising the consumption of non-renewable resources and environmental disturbance, and discouraging highly energy-intensive industries.
 !!!! * Prohibit the construction of nuclear power stations.
 !!!! * Wherever possible supply energy by primary energy sources rather than indirectly by electricity. 
-!!!!
-!!!! To stabilise energy consumption the Values Party would
-!!!! #### Domestic Sector
+!!!! #### To stabilise energy consumption the Values Party would
+!!!! ##### Domestic Sector
 !!!! * Revise the price of electricity, gas, petrol and oil to domestic users to give a basic allocation at reasonable prices. Consumption in excess of this would be charged on an increasing sliding scale.
 !!!! * Investigate increased charges for peak period consumption.
 !!!! * Encourage glide time in working hours.
@@ -30,7 +29,7 @@ Values Party policies aimed at stabilising population and developing a stable-st
 !!!! * Encourage the supply of heat through direct means by solar energy or by heat pumps.
 !!!! * Upgrade building standards relating to insulation, and subsidise the cost of insulation and other means of achieving low energy requirement homes.
 !!!! * Ban certain frivolous uses of energy, such as the heating of domestic swimming pools.
-!!!! #### Industrial Sector
+!!!! ##### Industrial Sector
 !!!! *  Remove bulk power discounts to industry and charge higher prices for peak period consumption.
 !!!! *  Use subsidies or depreciation to encourage the establishment of industry-based power stations. Excess electricity would be purchased by the NZED and the interchange of energy among industries encouraged.
 !!!! * Take steps to ensure that consumer appliances operate on a minimum power factor.

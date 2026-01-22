@@ -1,8 +1,17 @@
-  <div class="page-pdf">
-      <em>Download</em>
+
       {% if page.title == 'Beyond Tomorrow' %}
-        <a href="../pdfs/{{ page.title|e('url') }}.pdf">{{ page.title }}</a>
+       {% set thisurl = '../pdfs/Beyond%20Tomorrow.pdf' %}
       {% else %}
-        <a href="../pdfs/Beyond Tomorrow {{ page.title|e('url') }}.pdf">{{ page.title }}</a>
+        {% if page.header.section %} 
+          {% set thisurl = '../pdfs/' ~ page.header.section|replace('-',  ' ')|e('url') ~ '/Beyond Tomorrow%20' ~page.title|replace('-',  ' ')|e('url') ~ '.pdf' %}
+        {% else %}  
+          {% set thisurl = '../pdfs/Beyond%20Tomorrow%20' ~page.title|replace('-',  ' ')|e('url') ~ '.pdf' %}
+        {% endif %}
       {% endif %}
+
+    <div class="page-pdf">
+      <em>Download</em>             
+
+        <a href=" {{ thisurl }}">{{ page.title }}</a>
+     
   </div>

@@ -10,7 +10,7 @@ The pace and direction of political, economic, social and cultural change has me
 
 We are committed to the development of a decentralised participatory democracy within a just, co-operative society. Only a strong sense of community can counter the massness and alienation of western society. And this feeling of togetherness can be promoted to some extent by doing in an intelligent manner what many radicals and anarchists are calling for - “Power to the People”.
 
-####Decentralisation
+### Decentralisation
 
 Values’ policies consistently call for more responsibility, more power and more autonomy for regional community levels of government, and redefinition of the role of central government and head office.
 
@@ -63,172 +63,40 @@ In 1972 we stated ‘‘the Values Party believes that there is an urgent need f
 !!!! * Areview procedure for legislation whereby each new bill contains a statement of its objectives, its estimated costs and benefits, and specifies a time, not more than 20 years, during which it must be reviewed.
 !!!! * Liberalising of standing orders to allow private members’ bills that propose increases in expenditure.
 
-New Zealanders
- expect
- more than
- is humanly
-possible
- from their
- MPs, who are expected
- not only to
-represent the interests of constituents, but also to
-keep up with everything going on in all fields of govern-
-ment, to be effective members of their party, and to
-prepare for and participate in parliament. When the
-responsibilities of cabinet are added as well we
-wonder why many talented people do not make
-effective use of their talents.
-The Values Party
-e Supports increased
- secretarial
- aid for MPs.
-e Would expect any MPs from their party to delegate
- some
- of their
-responsibilities to their local branch so that they were able to remain
-healthy and effective representatives.
-e Believes more fundamental
- changes are needed to make
-parliament relevant and effective in a participatory democracy, and
-that any proposed changes should be subjected to the kind of public
-scrutiny and discussion pioneered by the Educational Development
-Conference.
-The Values Party has never been one that is part-
-icularly attracted by the style and procedures of our
-present so-called debating system. We feel that
-“adversary”
- or ‘confrontation’
- politics has had
-adverse effects on the reputation of parliament, the
-consideration of legislation, and even on legislation
-itself.
-We see no reason in opposing or amending
-legislation simply because the other side introduced it
-and little point in participating in the petty points-scor-
-ing or Tower of Babel aspects of parliamentary debate.
-We feel the two-party system is largely to blame for this
-situation.
-We realise that adversary situations, disfranchise-
-ment between elections and parliamentary pettiness
-are deeply ingrained in New Zealand tradition and
-cannot be changed for the better overnight. That is no
-reason to endorse them in the meantime.
-85
-Role of Experts
-The Values Party believes that the most reliable
-experts on a decision are those who are going to be
-affected
- by it.
-Science, technology, general social change and the
-specialised professions have developed to the stage
-that experts in these relatively narrow fields have
-immense
- influence
- over decisions
- that will affect all of
-us.
-More and more political decisions have to be made
-on issues that are highly technical as well as far-reach-
-ing in nature.
-Current examples are debates and controversy
-about such issues as private versus public transport
-systems; import quotas for new technology; the
-approvals or restraints on defoliants and drugs; the
-introduction of cable television and FM radio; the best
-method of superannuation; long-term social and envir-
-onmental costs versus short-term economic benefits of
-aluminium smelters/beech forest utilisation/container
-ports/power plants. The role of technical experts in
-advising on these issues must be acknowledged and
-safeguarded if we are to make wise decisions. But this
-role poses major problems for participatory democracy
-and social justice.
-The Values Party believes that its principles of
-justice, participatory democracy, decentralisation and
-community control, and the policies it has developed to
-implement these principles, are part of the answer. We
-suggest that the role of experts must be confined to
-providing reliable information on the technical details
-of various alternatives, and answering the questions as
-posed for them by both elected politicians and com-
-munity groups and individuals.
-If they are to perform this role well they must be
-given the resources and opportunities to respond to
-the demands made of them.
-The general public may not be competent
- to judge
-issues on technical details but it is competent to judge
-between conflicting values and to set overall goals. This
-role is vital in the framing of questions asked of experts
-by government.
-In voting Values, for example, the public is clearly
-endorsing the general principle that long-term social
-and environmental costs are a higher priority than
-short-term economic benefits. Such an endorsement
-will not change the technical detail but will change the
-kinds of questions
- experts
- are asked, and it will shuffle
-the technical detail into a different order of priority.
-The Values Party feels there is a chance of
-preserving democracy and justice in New Zealand if the
-above points are recognised and the following policies
-implemented:
-86
-o All expert
- bodies
- should
- include wherever
- appropriate
- non-experts
-who represent important groups in the community [for example,
-women, youth, and consumers].
-e Expert
- government
- departments
- such as the
- DSIR must
- answer
-relevant questions on political issues raised by community groups and
-individuals, as well as questions posed by politicians. Some help in
-framing these questions should also be provided.
-e The general
- public should
- have access
- to all information
- on political
-issues
- under
- certain
- conditions.
- [Refer
- also
- to ‘Participatory
-Democracy].
-e The general principle of social control over technology and science
-embodied in the Technology and Science Assessment Board [refer
-“Technology] should be extended into transport, manufacturing and
-health.
-The Public Service
-The main expert agency in government is the Public
-Service. The Values Party believes that New Zealand's
-Public Service has in general served New Zealand well.
-If it is not the most imaginative, dynamic and respon-
-sive Public Service in the world that is largely because
-New Zealanders have not yet asked it to be.
-eo The Values Party would amend
- Public Service regulations to make
-it easier for private sector personnel to be appointed to top levels of
-the Public Service.
-Values Party policies in industrial relations, the role
-of experts,
- and participatory
- democracy
- will have direct
-effects on the Public Service and will have indirect
-effects on most other sectors of society. The result of
-these policies would be a Public Service which is more
-responsive to the needs of people and the demands of
-social change.
-Actually this factory produces nothing.
-It is just a device to employ labour.
+New Zealanders expect more than is humanly possible from their MPs, who are expected not only to represent the interests of constituents, but also to keep up with everything going on in all fields of govern- ment, to be effective members of their party, and to prepare for and participate in parliament. When the responsibilities of cabinet are added as well we wonder why many talented people do not make effective use of their talents.
+
+!!!! #### The Values Party
+!!!! * Supports increased secretarial aid for MPs.
+!!!! * Would expect any MPs from their party to delegate some of their responsibilities to their local branch so that they were able to remain healthy and effective representatives.
+!!!! * Believes more fundamental changes are needed to make parliament relevant and effective in a participatory democracy, and that any proposed changes should be subjected to the kind of public scrutiny and discussion pioneered by the Educational Development Conference.
+
+The Values Party has never been one that is particularly attracted by the style and procedures of our present so-called debating system. We feel that "adversary" or 'confrontation' politics has had adverse effects on the reputation of parliament, the consideration of legislation, and even on legislation itself.
+
+We see no reason in opposing or amending legislation simply because the other side introduced it and little point in participating in the petty points-scor- ing or Tower of Babel aspects of parliamentary debate. We feel the two-party system is largely to blame for this situation.
+
+We realise that adversary situations, disfranchisement between elections and parliamentary pettiness are deeply ingrained in New Zealand tradition and cannot be changed for the better overnight. That is no reason to endorse them in the meantime.
+
+### Role of Experts
+The Values Party believes that the most reliable experts on a decision are those who are going to be affected by it.
+
+Science, technology, general social change and the specialised professions have developed to the stage that experts in these relatively narrow fields have immense influence over decisions that will affect all of us.
+
+More and more political decisions have to be made on issues that are highly technical as well as far-reaching in nature.
+
+Current examples are debates and controversy about such issues as private versus public transport systems; import quotas for new technology; the approvals or restraints on defoliants and drugs; the introduction of cable television and FM radio; the best method of superannuation; long-term social and envir- onmental costs versus short-term economic benefits of aluminium smelters/beech forest utilisation/container ports/power plants. The role of technical experts in advising on these issues must be acknowledged and safeguarded if we are to make wise decisions. But this role poses major problems for participatory democracy and social justice.
+
+The Values Party believes that its principles of justice, participatory democracy, decentralisation and community control, and the policies it has developed to implement these principles, are part of the answer. We suggest that the role of experts must be confined to providing reliable information on the technical details of various alternatives, and answering the questions as posed for them by both elected politicians and com- munity groups and individuals.
+
+If they are to perform this role well they must be given the resources and opportunities to respond to the demands made of them. The general public may not be competent to judge issues on technical details but it is competent to judge between conflicting values and to set overall goals. This role is vital in the framing of questions asked of experts by government. In voting Values, for example, the public is clearly endorsing the general principle that long-term social and environmental costs are a higher priority than short-term economic benefits. Such an endorsement will not change the technical detail but will change the kinds of questions experts are asked, and it will shuffle the technical detail into a different order of priority. The Values Party feels there is a chance of preserving democracy and justice in New Zealand if the above points are recognised and the following policies implemented:
+
+* All expert bodies should include wherever appropriate non-experts who represent important groups in the community [for example, women, youth, and consumers].
+* Expert government departments such as the DSIR must answer relevant questions on political issues raised by community groups and individuals, as well as questions posed by politicians. Some help in framing these questions should also be provided.
+* The general public should have access to all information on political issues under certain conditions. [Refer also to ‘Participatory Democracy].
+* The general principle of social control over technology and science embodied in the Technology and Science Assessment Board [refer “Technology] should be extended into transport, manufacturing and health.
+
+### The Public Service
+The main expert agency in government is the Public Service. The Values Party believes that New Zealand's Public Service has in general served New Zealand well. If it is not the most imaginative, dynamic and respon- sive Public Service in the world that is largely because New Zealanders have not yet asked it to be.
+
+* The Values Party would amend Public Service regulations to make it easier for private sector personnel to be appointed to top levels of the Public Service.
+
+Values Party policies in industrial relations, the role of experts, and participatory democracy will have direct effects on the Public Service and will have indirect effects on most other sectors of society. The result of these policies would be a Public Service which is more responsive to the needs of people and the demands of social change.

@@ -3,6 +3,7 @@ title: Survival
 taxonomy:
     category:
         - docs
+section: Policy Summary
 ---
 
 ## The Stable-State Society

@@ -7,14 +7,14 @@ taxonomy:
 ---
 
 > “They took all the trees and put them in a tree museum and charged the people a dollar and a half to see them.”
+> <span class="citation">Joni Mitchell, “Yellow Taxi".</span>
 
-Joni Mitchell, “Yellow Taxi".
 
 Forestry is an increasingly important part of our way of life. This year’s Forestry Development Conference committed the forestry section to putting 135,000 acres of land each year into exotic plantations, mostly pine. But much of the expansion will be at the expense of the existing native forests. More than a million acres of native forest are included in lands that the Forest Service regard as “‘suitable” for conversion to pine.
 
 Given the past destruction of irreplaceable virgin forest, we believe that further expansion of planting must be on wasteland and marginal agricultural land rather than on land now covered by virgin forests. 
 
-!!!! The Values Party would
+!!!! #### The Values Party would
 !!!! * Classify all indigenous forests as either protection or production forests with the object of preserving our remaining virgin forests.
 !!!! * Place an upper limit on commercial pinus radiata acreages and increase planting of alternative species, especially fine timbers including natives.
 !!!! * Separate the production-related divisions of the NZ Forest Service from the environmental forestry division.
