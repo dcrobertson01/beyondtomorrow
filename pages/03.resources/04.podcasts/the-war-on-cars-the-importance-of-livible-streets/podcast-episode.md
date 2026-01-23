@@ -4,8 +4,9 @@ date: '03:02 23-01-2026'
 podcast:
     itunes:
         subtitle: 'EPISODE 165: The Importance of Livable Streets with Bruce Appleyard'
-        author: 'Beyond Tomorrow'
+        author: 'War on Cars'
         explicit: 'no'
+        image: woc_C.jpg
     audio:
         remote: 'https://pdst.fm/e/traffic.libsyn.com/secure/forcedn/waroncars/TWC_012026_v2.mp3'
         meta:
