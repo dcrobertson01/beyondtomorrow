@@ -3,7 +3,10 @@ title: Resources
 child_type: resource
 published: true
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
+        - '@taxonomy':
+            category: [resource]
     order:
         by: date
         dir: desc

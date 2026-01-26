@@ -20,7 +20,8 @@ authors:
     -
         name: 'Edward Goldsmith'
 taxonomy:
-    category: docs
+    category:
+        - resource
 ---
 
 A Blueprint for Survival was an influential environmentalist text that drew attention to the urgency and magnitude of environmental problems.
