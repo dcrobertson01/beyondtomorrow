@@ -9,7 +9,7 @@ taxonomy:
 # Survival
 
 > "An examination of the relevant information available has impressed upon us the extreme gravity of the global situation today. For, if current trends are allowed to persist, the breakdown of society and the irreversible disruption of the life-support systems on this planet, possibly by the end of the century, certainly within the lifetimes of our children, are inevitable"
-> <span class="citation">From [A Blueprint for Survival The Ecologist Vol.2, No.1, 1972] [mlk] : Supported by 34 distinguished biologists, ecologists, doctors and economists.</span>
+> <span class="citation">From [A Blueprint for Survival The Ecologist Vol.2, No.1, 1972] [bfs] : Supported by 34 distinguished biologists, ecologists, doctors and economists.</span>
 
 Some people have dismissed the Values Party as sentimental nature-lovers. On the contrary, we know that nature is utterly indifferent to any one species and couldn't care less whether human beings survive or not. We disagree with environmentalists who believe man shouldn't interfere with nature at all. There is nothing wrong with altering our environment provided it is really in our interests - in the long term as well as in the short term.
 
@@ -28,5 +28,5 @@ The Values Party exists to tell anyone who'll listen that we must start taking s
 
 > "We do not need to destroy the ecosphere, all we have to do is to carry on as we are."
 
-[bfs]: /references/blueprint-for-survival "A Blueprint for Survival"
-[mlk]: /references/martin-luther-king "Martin Luther King"
+[bfs]: /resources/a-blueprint-for-survival "A Blueprint for Survival"
+[mlk]: /resources/martin-luther-king "Martin Luther King"

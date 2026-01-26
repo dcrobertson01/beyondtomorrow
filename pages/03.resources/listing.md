@@ -3,12 +3,12 @@ title: Resources
 child_type: resource
 published: true
 content:
-    items:
-        - '@self.children'
-        - '@taxonomy':
-            category: [resource]
+    items: '@self.children'
+    filter:
+        visible: true
+        type: 'resource'
     order:
-        by: date
+        by: title
         dir: desc
     limit: 10
     pagination: true

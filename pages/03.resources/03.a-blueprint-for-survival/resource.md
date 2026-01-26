@@ -22,6 +22,8 @@ authors:
 taxonomy:
     category:
         - resource
+    'resource type':
+        - book
 ---
 
 A Blueprint for Survival was an influential environmentalist text that drew attention to the urgency and magnitude of environmental problems.

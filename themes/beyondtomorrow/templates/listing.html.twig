@@ -8,8 +8,8 @@
     	{{ page.content|raw }}
     </p>
     {% for p in page.collection.order('folder','asc') %}
-        <h2>{{ p.title|e }}</h2>
-    {{ p.summary|raw }}
+        <h2><a href="{{ p.url|e }}">{{ p.title|e }}</a></h2>
+        {{ p.summary|raw }}
 {% endfor %}
     <p>
         {% include 'partials/newsletter_subscribe_form.html.twig' %}
