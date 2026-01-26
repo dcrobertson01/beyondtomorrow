@@ -19,6 +19,8 @@ authors:
         name: 'Robert Allen'
     -
         name: 'Edward Goldsmith'
+taxonomy:
+    category: docs
 ---
 
 A Blueprint for Survival was an influential environmentalist text that drew attention to the urgency and magnitude of environmental problems.
