@@ -1,6 +1,5 @@
 ---
 title: 'Best of the pods'
-date: '02:39 23-01-2026'
 content:
     rss: 'true'
     items: '@self.descendants'
@@ -18,5 +17,6 @@ podcast:
     link: 'https://www.example.com'
     channelLanguage: en
     copyright: '2021 Example.com'
+date: '20:15 09-02-2026'
 ---
 
