@@ -5,6 +5,7 @@ podcast:
     itunes:
         subtitle: 'EPISODE 165: The Importance of Livable Streets with Bruce Appleyard'
         explicit: 'no'
+        author: 'Beyond Tomorrow'
     audio:
         remote: 'https://pdst.fm/e/traffic.libsyn.com/secure/forcedn/waroncars/TWC_012026_v2.mp3'
         meta:
