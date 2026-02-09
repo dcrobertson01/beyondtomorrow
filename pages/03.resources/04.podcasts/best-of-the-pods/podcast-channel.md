@@ -18,5 +18,6 @@ podcast:
     channelLanguage: en
     copyright: '2021 Example.com'
 date: '20:15 09-02-2026'
+visible: true
 ---
 
